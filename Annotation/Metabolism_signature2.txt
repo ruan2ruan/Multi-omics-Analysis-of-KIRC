@@ -1,0 +1,1962 @@
+Metabolic Function	Gene Name
+Linoleic acid metabolism	PLA2G2A
+Linoleic acid metabolism	PLA2G4F
+Linoleic acid metabolism	CYP2C8
+Linoleic acid metabolism	PLA2G2D
+Linoleic acid metabolism	PLA2G4C
+Linoleic acid metabolism	CYP3A4
+2-Oxocarboxylic acid metabolism	GPT2
+2-Oxocarboxylic acid metabolism	GPT
+2-Oxocarboxylic acid metabolism	GOT1
+2-Oxocarboxylic acid metabolism	ACO1
+2-Oxocarboxylic acid metabolism	ACY1
+2-Oxocarboxylic acid metabolism	ACO2
+Starch and sucrose metabolism	ENPP3
+Starch and sucrose metabolism	GPI
+Starch and sucrose metabolism	GYG2
+Starch and sucrose metabolism	HK3
+Starch and sucrose metabolism	AMY2B
+Starch and sucrose metabolism	GYS1
+Alanine aspartate and glutamate metabolism	ALDH4A1
+Alanine aspartate and glutamate metabolism	ASS1
+Alanine aspartate and glutamate metabolism	GPT2
+Alanine aspartate and glutamate metabolism	GPT
+Alanine aspartate and glutamate metabolism	GLUL
+Alanine aspartate and glutamate metabolism	GOT1
+Alanine aspartate and glutamate metabolism	ASNS
+Pyrimidine metabolism	DPYS
+Pyrimidine metabolism	ENPP3
+Pyrimidine metabolism	TYMP
+Pyrimidine metabolism	NME3
+Pyrimidine metabolism	PNP
+Pyrimidine metabolism	ENTPD8
+Pyrimidine metabolism	UCK2
+Pyrimidine metabolism	NT5C3A
+Pyrimidine metabolism	ENTPD5
+Pyrimidine metabolism	NME4
+Pyrimidine metabolism	UPP1
+Pyrimidine metabolism	NT5E
+Pyrimidine metabolism	CDA
+Pyrimidine metabolism	UCK1
+Pyrimidine metabolism	NME2
+Pyrimidine metabolism	TK2
+Pyrimidine metabolism	NT5C3B
+Pyrimidine metabolism	NME1
+Pyrimidine metabolism	CTPS2
+Pyrimidine metabolism	UCKL1
+Amino acid Metabolism	SLC3A2
+Amino acid Metabolism	GOT1
+Amino acid Metabolism	GOT2
+Amino acid Metabolism	ACAD8
+Amino acid Metabolism	ACADSB
+Amino acid Metabolism	NDUFAB1
+Amino acid Metabolism	ASPA
+Amino acid Metabolism	AGXT2
+Amino acid Metabolism	GPT
+Amino acid Metabolism	ARG2
+Amino acid Metabolism	ARG1
+Amino acid Metabolism	ASL
+Amino acid Metabolism	ASNS
+Amino acid Metabolism	ASS1
+Amino acid Metabolism	SAT1
+Amino acid Metabolism	TAT
+Amino acid Metabolism	BCAT2
+Amino acid Metabolism	BCAT1
+Amino acid Metabolism	BCKDK
+Amino acid Metabolism	BHMT
+Amino acid Metabolism	BBOX1
+Amino acid Metabolism	CBS
+Amino acid Metabolism	CNDP2
+Amino acid Metabolism	CTH
+Amino acid Metabolism	CPS1
+Amino acid Metabolism	CRYM
+Amino acid Metabolism	CSAD
+Amino acid Metabolism	CDO1
+Amino acid Metabolism	HIBADH
+Amino acid Metabolism	ALDH7A1
+Amino acid Metabolism	AMD1
+Amino acid Metabolism	HDC
+Amino acid Metabolism	ODC1
+Amino acid Metabolism	DDC
+Amino acid Metabolism	ALDH9A1
+Amino acid Metabolism	GLUD1
+Amino acid Metabolism	GLUD2
+Amino acid Metabolism	QDPR
+Amino acid Metabolism	SLC25A10
+Amino acid Metabolism	DLD
+Amino acid Metabolism	DBH
+Amino acid Metabolism	SHFM1
+Amino acid Metabolism	FAH
+Amino acid Metabolism	IL4I1
+Amino acid Metabolism	FOLH1
+Amino acid Metabolism	FTCD
+Amino acid Metabolism	GAMT
+Amino acid Metabolism	GATM
+Amino acid Metabolism	GCDH
+Amino acid Metabolism	GCSH
+Amino acid Metabolism	GLDC
+Amino acid Metabolism	AMT
+Amino acid Metabolism	CGA
+Amino acid Metabolism	GNMT
+Amino acid Metabolism	GLUL
+Amino acid Metabolism	GLS
+Amino acid Metabolism	GLS2
+Amino acid Metabolism	SHMT1
+Amino acid Metabolism	GCLM
+Amino acid Metabolism	GCLC
+Amino acid Metabolism	HAO1
+Amino acid Metabolism	HSD17B10
+Amino acid Metabolism	HGD
+Amino acid Metabolism	HNMT
+Amino acid Metabolism	HPD
+Amino acid Metabolism	HAL
+Amino acid Metabolism	UROC1
+Amino acid Metabolism	IDO1
+Amino acid Metabolism	INMT
+Amino acid Metabolism	DIO3
+Amino acid Metabolism	IVD
+Amino acid Metabolism	GCAT
+Amino acid Metabolism	CKB
+Amino acid Metabolism	CKM
+Amino acid Metabolism	CKMT2
+Amino acid Metabolism	CKMT1A
+Amino acid Metabolism	KYNU
+Amino acid Metabolism	SLC7A5
+Amino acid Metabolism	LIAS
+Amino acid Metabolism	LIPT1
+Amino acid Metabolism	GSTZ1
+Amino acid Metabolism	SLC45A2
+Amino acid Metabolism	AIMP1
+Amino acid Metabolism	AIMP2
+Amino acid Metabolism	EEF1E1
+Amino acid Metabolism	MCCC1
+Amino acid Metabolism	MCCC2
+Amino acid Metabolism	MTR
+Amino acid Metabolism	MAT1A
+Amino acid Metabolism	ALDH6A1
+Amino acid Metabolism	MTAP
+Amino acid Metabolism	MTRR
+Amino acid Metabolism	NAALAD2
+Amino acid Metabolism	NNMT
+Amino acid Metabolism	NQO1
+Amino acid Metabolism	OAT
+Amino acid Metabolism	OAZ2
+Amino acid Metabolism	OAZ3
+Amino acid Metabolism	OAZ1
+Amino acid Metabolism	DBT
+Amino acid Metabolism	BCKDHA
+Amino acid Metabolism	BCKDHB
+Amino acid Metabolism	AZIN1
+Amino acid Metabolism	SLC25A21
+Amino acid Metabolism	OGDH
+Amino acid Metabolism	DLST
+Amino acid Metabolism	DLAT
+Amino acid Metabolism	PDHA1
+Amino acid Metabolism	PDHB
+Amino acid Metabolism	PDHX
+Amino acid Metabolism	SLC25A15
+Amino acid Metabolism	SLC25A2
+Amino acid Metabolism	OTC
+Amino acid Metabolism	DAO
+Amino acid Metabolism	DDO
+Amino acid Metabolism	PAH
+Amino acid Metabolism	PCBD1
+Amino acid Metabolism	PNMT
+Amino acid Metabolism	PAPSS1
+Amino acid Metabolism	PYCR1
+Amino acid Metabolism	PRODH
+Amino acid Metabolism	PSMC5
+Amino acid Metabolism	PSMA8
+Amino acid Metabolism	ALDH4A1
+Amino acid Metabolism	OCA2
+Amino acid Metabolism	RPS4Y2
+Amino acid Metabolism	SLC6A7
+Amino acid Metabolism	SLC6A8
+Amino acid Metabolism	SLC6A11
+Amino acid Metabolism	SLC6A12
+Amino acid Metabolism	AHCY
+Amino acid Metabolism	SECISBP2
+Amino acid Metabolism	EEFSEC
+Amino acid Metabolism	PHGDH
+Amino acid Metabolism	PSPH
+Amino acid Metabolism	PSAT1
+Amino acid Metabolism	SLC5A5
+Amino acid Metabolism	AANAT
+Amino acid Metabolism	PIPOX
+Amino acid Metabolism	AGMAT
+Amino acid Metabolism	SRM
+Amino acid Metabolism	SMS
+Amino acid Metabolism	AGXT
+Amino acid Metabolism	SQRDL
+Amino acid Metabolism	SUOX
+Amino acid Metabolism	DARS
+Amino acid Metabolism	EPRS
+Amino acid Metabolism	IARS
+Amino acid Metabolism	KARS
+Amino acid Metabolism	MARS
+Amino acid Metabolism	QARS
+Amino acid Metabolism	RARS
+Amino acid Metabolism	SARS
+Amino acid Metabolism	TDO2
+Amino acid Metabolism	SERINC3
+Amino acid Metabolism	SERINC1
+Amino acid Metabolism	ACAT1
+Amino acid Metabolism	TST
+Amino acid Metabolism	TMLHE
+Amino acid Metabolism	TXNRD1
+Amino acid Metabolism	TSHB
+Amino acid Metabolism	TYRP1
+Amino acid Metabolism	DCT
+Amino acid Metabolism	TYR
+Amino acid Metabolism	PSMD14
+Amino acid Metabolism	NAGS
+Amino acid Metabolism	HIBCH
+Amino acid Metabolism	AASS
+Amino acid Metabolism	AADAT
+Amino acid Metabolism	KMO
+Amino acid Metabolism	ACMSD
+Amino acid Metabolism	RPS10
+Amino acid Metabolism	RPS11
+Amino acid Metabolism	RPS12
+Amino acid Metabolism	RPS13
+Amino acid Metabolism	RPS14
+Amino acid Metabolism	RPS15
+Amino acid Metabolism	RPS16
+Amino acid Metabolism	RPS17
+Amino acid Metabolism	RPS18
+Amino acid Metabolism	RPS19
+Amino acid Metabolism	RPS15A
+Amino acid Metabolism	RPS2
+Amino acid Metabolism	RPS20
+Amino acid Metabolism	RPS21
+Amino acid Metabolism	RPS23
+Amino acid Metabolism	RPS24
+Amino acid Metabolism	RPS25
+Amino acid Metabolism	RPS26
+Amino acid Metabolism	RPS27
+Amino acid Metabolism	RPS27A
+Amino acid Metabolism	RPS28
+Amino acid Metabolism	RPS29
+Amino acid Metabolism	RPS3
+Amino acid Metabolism	FAU
+Amino acid Metabolism	RPS3A
+Amino acid Metabolism	RPS4X
+Amino acid Metabolism	RPS4Y1
+Amino acid Metabolism	RPS5
+Amino acid Metabolism	RPS6
+Amino acid Metabolism	RPS7
+Amino acid Metabolism	RPS8
+Amino acid Metabolism	RPS9
+Amino acid Metabolism	RPSA
+Amino acid Metabolism	RPLP0
+Amino acid Metabolism	RPLP1
+Amino acid Metabolism	RPLP2
+Amino acid Metabolism	RPL10
+Amino acid Metabolism	RPL10A
+Amino acid Metabolism	RPL11
+Amino acid Metabolism	RPL12
+Amino acid Metabolism	RPL13
+Amino acid Metabolism	RPL13A
+Amino acid Metabolism	RPL14
+Amino acid Metabolism	RPL15
+Amino acid Metabolism	RPL17
+Amino acid Metabolism	RPL18
+Amino acid Metabolism	RPL18A
+Amino acid Metabolism	RPL19
+Amino acid Metabolism	RPL21
+Amino acid Metabolism	RPL22
+Amino acid Metabolism	RPL23
+Amino acid Metabolism	RPL23A
+Amino acid Metabolism	RPL24
+Amino acid Metabolism	RPL26
+Amino acid Metabolism	RPL26L1
+Amino acid Metabolism	RPL27
+Amino acid Metabolism	RPL27A
+Amino acid Metabolism	RPL28
+Amino acid Metabolism	RPL29
+Amino acid Metabolism	RPL3
+Amino acid Metabolism	RPL3L
+Amino acid Metabolism	RPL30
+Amino acid Metabolism	RPL31
+Amino acid Metabolism	RPL32
+Amino acid Metabolism	RPL34
+Amino acid Metabolism	RPL35
+Amino acid Metabolism	RPL35A
+Amino acid Metabolism	RPL36
+Amino acid Metabolism	RPL37
+Amino acid Metabolism	RPL37A
+Amino acid Metabolism	RPL38
+Amino acid Metabolism	RPL39
+Amino acid Metabolism	RPL4
+Amino acid Metabolism	UBA52
+Amino acid Metabolism	RPL41
+Amino acid Metabolism	RPL36A
+Amino acid Metabolism	RPL5
+Amino acid Metabolism	RPL6
+Amino acid Metabolism	RPL7
+Amino acid Metabolism	RPL7A
+Amino acid Metabolism	RPL8
+Amino acid Metabolism	RPL9
+Amino acid Metabolism	AUH
+Amino acid Metabolism	PSMC1
+Amino acid Metabolism	PSMC4
+Amino acid Metabolism	PSMC2
+Amino acid Metabolism	PSMC3
+Amino acid Metabolism	PSMC6
+Amino acid Metabolism	PSMA1
+Amino acid Metabolism	PSMA2
+Amino acid Metabolism	PSMA3
+Amino acid Metabolism	PSMA4
+Amino acid Metabolism	PSMA5
+Amino acid Metabolism	PSMA6
+Amino acid Metabolism	PSMA7
+Amino acid Metabolism	PSMB1
+Amino acid Metabolism	PSMB2
+Amino acid Metabolism	PSMB3
+Amino acid Metabolism	PSMB4
+Amino acid Metabolism	PSMB5
+Amino acid Metabolism	PSMB6
+Amino acid Metabolism	PSMB7
+Amino acid Metabolism	PSMB8
+Amino acid Metabolism	PSMB9
+Amino acid Metabolism	PSMB10
+Amino acid Metabolism	PSMD1
+Amino acid Metabolism	PSMD2
+Amino acid Metabolism	PSMD3
+Amino acid Metabolism	PSMD4
+Amino acid Metabolism	PSMD5
+Amino acid Metabolism	PSMD6
+Amino acid Metabolism	PSMD7
+Amino acid Metabolism	PSMD8
+Amino acid Metabolism	PSMD9
+Amino acid Metabolism	PSMD10
+Amino acid Metabolism	PSMD11
+Amino acid Metabolism	PSMD12
+Amino acid Metabolism	PSMD13
+Amino acid Metabolism	PSME1
+Amino acid Metabolism	PSME2
+Amino acid Metabolism	PSME3
+Amino acid Metabolism	PSMF1
+Amino acid Metabolism	RPL39L
+Amino acid Metabolism	SERINC2
+Amino acid Metabolism	TPH2
+Amino acid Metabolism	PAOX
+Amino acid Metabolism	ADO
+Amino acid Metabolism	GRHPR
+Amino acid Metabolism	CCBL1
+Amino acid Metabolism	ALDH18A1
+Amino acid Metabolism	RPS27L
+Amino acid Metabolism	SMOX
+Amino acid Metabolism	LARS
+Amino acid Metabolism	AFMID
+Amino acid Metabolism	AMDHD1
+Amino acid Metabolism	APIP
+Amino acid Metabolism	ASRGL1
+Amino acid Metabolism	BHMT2
+Amino acid Metabolism	C9orf41
+Amino acid Metabolism	DHTKD1
+Amino acid Metabolism	DUOX1
+Amino acid Metabolism	DUOX2
+Amino acid Metabolism	MRI1
+Amino acid Metabolism	ENOPH1
+Amino acid Metabolism	ETHE1
+Amino acid Metabolism	GADL1
+Amino acid Metabolism	GSR
+Amino acid Metabolism	IDO2
+Amino acid Metabolism	CCBL2
+Amino acid Metabolism	ASPG
+Amino acid Metabolism	ADI1
+Amino acid Metabolism	NMRAL1
+Amino acid Metabolism	PYCR2
+Amino acid Metabolism	PYCRL
+Amino acid Metabolism	PPM1K
+Amino acid Metabolism	PSMB11
+Amino acid Metabolism	PSME4
+Amino acid Metabolism	PSTK
+Amino acid Metabolism	RPL10L
+Amino acid Metabolism	RPL22L1
+Amino acid Metabolism	RPL36AL
+Amino acid Metabolism	SCLY
+Amino acid Metabolism	SEPSECS
+Amino acid Metabolism	CARNS1
+Amino acid Metabolism	LIPT2
+Amino acid Metabolism	SERINC4
+Amino acid Metabolism	SERINC5
+Amino acid Metabolism	PAPSS2
+Amino acid Metabolism	TH
+Amino acid Metabolism	TPO
+Amino acid Metabolism	TPH1
+Amino acid Metabolism	ASMT
+Amino acid Metabolism	DIO1
+Amino acid Metabolism	IYD
+Amino acid Metabolism	GPT2
+Amino acid Metabolism	DIO2
+Amino acid Metabolism	ADC
+Carbohydrate Metabolism	PPP2R1A
+Carbohydrate Metabolism	PPP2R1B
+Carbohydrate Metabolism	PGD
+Carbohydrate Metabolism	PGLS
+Carbohydrate Metabolism	AAAS
+Carbohydrate Metabolism	GOT1
+Carbohydrate Metabolism	GOT2
+Carbohydrate Metabolism	AKR1A1
+Carbohydrate Metabolism	AKR1B1
+Carbohydrate Metabolism	ALDOA
+Carbohydrate Metabolism	ALDOB
+Carbohydrate Metabolism	ALDOC
+Carbohydrate Metabolism	AMY2B
+Carbohydrate Metabolism	AMY2A
+Carbohydrate Metabolism	AMY1A
+Carbohydrate Metabolism	NAGLU
+Carbohydrate Metabolism	ARSB
+Carbohydrate Metabolism	B3GAT1
+Carbohydrate Metabolism	B3GAT2
+Carbohydrate Metabolism	B3GAT3
+Carbohydrate Metabolism	B3GNT1
+Carbohydrate Metabolism	B3GNT2
+Carbohydrate Metabolism	B3GNT3
+Carbohydrate Metabolism	B4GALT1
+Carbohydrate Metabolism	B4GALT2
+Carbohydrate Metabolism	B4GALT3
+Carbohydrate Metabolism	B4GALT4
+Carbohydrate Metabolism	B4GALT5
+Carbohydrate Metabolism	B4GALT6
+Carbohydrate Metabolism	B4GALT7
+Carbohydrate Metabolism	GLB1
+Carbohydrate Metabolism	GUSB
+Carbohydrate Metabolism	CALM1
+Carbohydrate Metabolism	CD44
+Carbohydrate Metabolism	SLC25A12
+Carbohydrate Metabolism	SLC25A13
+Carbohydrate Metabolism	CRYL1
+Carbohydrate Metabolism	DERA
+Carbohydrate Metabolism	ALDH1A1
+Carbohydrate Metabolism	SORD
+Carbohydrate Metabolism	SLC25A10
+Carbohydrate Metabolism	SLC26A2
+Carbohydrate Metabolism	ENO1
+Carbohydrate Metabolism	ENO3
+Carbohydrate Metabolism	ENO2
+Carbohydrate Metabolism	EXT1
+Carbohydrate Metabolism	EXT2
+Carbohydrate Metabolism	FBP1
+Carbohydrate Metabolism	FBP2
+Carbohydrate Metabolism	PFKFB1
+Carbohydrate Metabolism	PFKFB2
+Carbohydrate Metabolism	PFKFB3
+Carbohydrate Metabolism	PFKFB4
+Carbohydrate Metabolism	FGF21
+Carbohydrate Metabolism	FMOD
+Carbohydrate Metabolism	GAPDH
+Carbohydrate Metabolism	GAPDHS
+Carbohydrate Metabolism	G6PD
+Carbohydrate Metabolism	GPI
+Carbohydrate Metabolism	G6PC
+Carbohydrate Metabolism	GALNS
+Carbohydrate Metabolism	GALK1
+Carbohydrate Metabolism	GALT
+Carbohydrate Metabolism	GALE
+Carbohydrate Metabolism	GCKR
+Carbohydrate Metabolism	AGL
+Carbohydrate Metabolism	GNS
+Carbohydrate Metabolism	GLCE
+Carbohydrate Metabolism	GBE1
+Carbohydrate Metabolism	GYG1
+Carbohydrate Metabolism	GNPDA1
+Carbohydrate Metabolism	GPC1
+Carbohydrate Metabolism	GPC3
+Carbohydrate Metabolism	GPC4
+Carbohydrate Metabolism	GPC5
+Carbohydrate Metabolism	GPC6
+Carbohydrate Metabolism	SLC2A1
+Carbohydrate Metabolism	SLC2A2
+Carbohydrate Metabolism	SLC2A3
+Carbohydrate Metabolism	SLC2A4
+Carbohydrate Metabolism	SLC2A5
+Carbohydrate Metabolism	GYG2
+Carbohydrate Metabolism	GYS1
+Carbohydrate Metabolism	GYS2
+Carbohydrate Metabolism	HAS1
+Carbohydrate Metabolism	HAS2
+Carbohydrate Metabolism	HAS3
+Carbohydrate Metabolism	HEXA
+Carbohydrate Metabolism	HEXB
+Carbohydrate Metabolism	HMMR
+Carbohydrate Metabolism	NDST1
+Carbohydrate Metabolism	NDST2
+Carbohydrate Metabolism	HK1
+Carbohydrate Metabolism	HK2
+Carbohydrate Metabolism	HK3
+Carbohydrate Metabolism	HYAL2
+Carbohydrate Metabolism	IDS
+Carbohydrate Metabolism	IDUA
+Carbohydrate Metabolism	NUP160
+Carbohydrate Metabolism	PFKM
+Carbohydrate Metabolism	PFKL
+Carbohydrate Metabolism	PFKP
+Carbohydrate Metabolism	PRKACA
+Carbohydrate Metabolism	PRKACB
+Carbohydrate Metabolism	PRKACG
+Carbohydrate Metabolism	KERA
+Carbohydrate Metabolism	KHK
+Carbohydrate Metabolism	PHKA1
+Carbohydrate Metabolism	PHKA2
+Carbohydrate Metabolism	PHKB
+Carbohydrate Metabolism	PHKG1
+Carbohydrate Metabolism	PHKG2
+Carbohydrate Metabolism	PRPS1
+Carbohydrate Metabolism	PRPS2
+Carbohydrate Metabolism	PRPS1L1
+Carbohydrate Metabolism	PKLR
+Carbohydrate Metabolism	LALBA
+Carbohydrate Metabolism	LCT
+Carbohydrate Metabolism	LUM
+Carbohydrate Metabolism	GAA
+Carbohydrate Metabolism	MAN2B1
+Carbohydrate Metabolism	MAN2B2
+Carbohydrate Metabolism	MAN2C1
+Carbohydrate Metabolism	SLC25A11
+Carbohydrate Metabolism	MANBA
+Carbohydrate Metabolism	MDH1
+Carbohydrate Metabolism	MDH2
+Carbohydrate Metabolism	MGAM
+Carbohydrate Metabolism	OGN
+Carbohydrate Metabolism	ABCC5
+Carbohydrate Metabolism	NUP107
+Carbohydrate Metabolism	NUP153
+Carbohydrate Metabolism	NUP214
+Carbohydrate Metabolism	SLC9A1
+Carbohydrate Metabolism	NUP37
+Carbohydrate Metabolism	NUP43
+Carbohydrate Metabolism	NUP50
+Carbohydrate Metabolism	NUP62
+Carbohydrate Metabolism	NUP88
+Carbohydrate Metabolism	OMD
+Carbohydrate Metabolism	PPP2CA
+Carbohydrate Metabolism	PPP2CB
+Carbohydrate Metabolism	HSPG2
+Carbohydrate Metabolism	ACAN
+Carbohydrate Metabolism	NCAN
+Carbohydrate Metabolism	VCAN
+Carbohydrate Metabolism	PGK1
+Carbohydrate Metabolism	PGK2
+Carbohydrate Metabolism	PGM1
+Carbohydrate Metabolism	BGN
+Carbohydrate Metabolism	DCN
+Carbohydrate Metabolism	PYGL
+Carbohydrate Metabolism	PYGM
+Carbohydrate Metabolism	PYGB
+Carbohydrate Metabolism	PGAM1
+Carbohydrate Metabolism	PGAM2
+Carbohydrate Metabolism	BPGM
+Carbohydrate Metabolism	PCK1
+Carbohydrate Metabolism	PCK2
+Carbohydrate Metabolism	PAPSS1
+Carbohydrate Metabolism	PRELP
+Carbohydrate Metabolism	PC
+Carbohydrate Metabolism	RAE1
+Carbohydrate Metabolism	RANBP2
+Carbohydrate Metabolism	RPIA
+Carbohydrate Metabolism	SLC26A1
+Carbohydrate Metabolism	SDC1
+Carbohydrate Metabolism	SDC2
+Carbohydrate Metabolism	SDC3
+Carbohydrate Metabolism	SDC4
+Carbohydrate Metabolism	ST3GAL1
+Carbohydrate Metabolism	ST3GAL2
+Carbohydrate Metabolism	ST3GAL4
+Carbohydrate Metabolism	ST3GAL3
+Carbohydrate Metabolism	SLC5A1
+Carbohydrate Metabolism	SLC5A2
+Carbohydrate Metabolism	SLC5A3
+Carbohydrate Metabolism	SLC5A4
+Carbohydrate Metabolism	SGSH
+Carbohydrate Metabolism	SI
+Carbohydrate Metabolism	TALDO1
+Carbohydrate Metabolism	TKT
+Carbohydrate Metabolism	TPR
+Carbohydrate Metabolism	TREH
+Carbohydrate Metabolism	SLC25A1
+Carbohydrate Metabolism	NUP155
+Carbohydrate Metabolism	RPS27A
+Carbohydrate Metabolism	UBA52
+Carbohydrate Metabolism	CHIA
+Carbohydrate Metabolism	CHIT1
+Carbohydrate Metabolism	NUP133
+Carbohydrate Metabolism	NUP54
+Carbohydrate Metabolism	NUPL1
+Carbohydrate Metabolism	RPE
+Carbohydrate Metabolism	TPI1
+Carbohydrate Metabolism	AGRN
+Carbohydrate Metabolism	DCXR
+Carbohydrate Metabolism	EPM2A
+Carbohydrate Metabolism	KIAA1199
+Carbohydrate Metabolism	NUP205
+Carbohydrate Metabolism	NHLRC1
+Carbohydrate Metabolism	NUP93
+Carbohydrate Metabolism	NUP98
+Carbohydrate Metabolism	BCAN
+Carbohydrate Metabolism	SLC45A3
+Carbohydrate Metabolism	STAB2
+Carbohydrate Metabolism	SEH1L
+Carbohydrate Metabolism	ST3GAL6
+Carbohydrate Metabolism	NUPL2
+Carbohydrate Metabolism	NUP85
+Carbohydrate Metabolism	NUP35
+Carbohydrate Metabolism	ADPGK
+Carbohydrate Metabolism	B3GNT4
+Carbohydrate Metabolism	B3GNT7
+Carbohydrate Metabolism	B3GALT6
+Carbohydrate Metabolism	CSGALNACT1
+Carbohydrate Metabolism	CSGALNACT2
+Carbohydrate Metabolism	CHPF2
+Carbohydrate Metabolism	CHSY1
+Carbohydrate Metabolism	CHPF
+Carbohydrate Metabolism	CHSY3
+Carbohydrate Metabolism	CHST1
+Carbohydrate Metabolism	CHST2
+Carbohydrate Metabolism	CHST3
+Carbohydrate Metabolism	CHST5
+Carbohydrate Metabolism	CHST6
+Carbohydrate Metabolism	CHST7
+Carbohydrate Metabolism	CHST9
+Carbohydrate Metabolism	CHST11
+Carbohydrate Metabolism	CHST12
+Carbohydrate Metabolism	CHST13
+Carbohydrate Metabolism	CHST14
+Carbohydrate Metabolism	CSPG4
+Carbohydrate Metabolism	CSPG5
+Carbohydrate Metabolism	DSEL
+Carbohydrate Metabolism	DSE
+Carbohydrate Metabolism	GLB1L
+Carbohydrate Metabolism	GLYCTK
+Carbohydrate Metabolism	GPC2
+Carbohydrate Metabolism	SLC2A14
+Carbohydrate Metabolism	HS6ST1
+Carbohydrate Metabolism	HS6ST2
+Carbohydrate Metabolism	HS6ST3
+Carbohydrate Metabolism	HGSNAT
+Carbohydrate Metabolism	HPSE2
+Carbohydrate Metabolism	HPSE
+Carbohydrate Metabolism	HS2ST1
+Carbohydrate Metabolism	HYAL1
+Carbohydrate Metabolism	HYAL3
+Carbohydrate Metabolism	LYVE1
+Carbohydrate Metabolism	NDST3
+Carbohydrate Metabolism	NDST4
+Carbohydrate Metabolism	NUP188
+Carbohydrate Metabolism	HS3ST1
+Carbohydrate Metabolism	HS3ST2
+Carbohydrate Metabolism	HS3ST3A1
+Carbohydrate Metabolism	HS3ST3B1
+Carbohydrate Metabolism	HS3ST4
+Carbohydrate Metabolism	HS3ST5
+Carbohydrate Metabolism	HS3ST6
+Carbohydrate Metabolism	PGM2
+Carbohydrate Metabolism	NUP210
+Carbohydrate Metabolism	PPP1R3C
+Carbohydrate Metabolism	RSC1A1
+Carbohydrate Metabolism	SLC35B2
+Carbohydrate Metabolism	SLC35B3
+Carbohydrate Metabolism	SLC35D2
+Carbohydrate Metabolism	SLC5A10
+Carbohydrate Metabolism	CHST15
+Carbohydrate Metabolism	UST
+Carbohydrate Metabolism	XYLB
+Carbohydrate Metabolism	XYLT1
+Carbohydrate Metabolism	XYLT2
+Carbohydrate Metabolism	G6PC2
+Carbohydrate Metabolism	G6PC3
+Carbohydrate Metabolism	SLC5A9
+Carbohydrate Metabolism	GNPDA2
+Carbohydrate Metabolism	POM121
+Carbohydrate Metabolism	POM121C
+Carbohydrate Metabolism	SLC37A4
+Carbohydrate Metabolism	PAPSS2
+Carbohydrate Metabolism	GCK
+Carbohydrate Metabolism	PPP2R5D
+Carbohydrate Metabolism	UGP2
+Carbohydrate Metabolism	UBC
+Carbohydrate Metabolism	UBB
+Energy Metabolism	PPP2R1A
+Energy Metabolism	PPP2R1B
+Energy Metabolism	ADRA2A
+Energy Metabolism	PRKAA2
+Energy Metabolism	PRKAB2
+Energy Metabolism	PRKAG2
+Energy Metabolism	ACLY
+Energy Metabolism	CHRM3
+Energy Metabolism	SLC25A4
+Energy Metabolism	SLC25A5
+Energy Metabolism	SLC25A6
+Energy Metabolism	ADIPOQ
+Energy Metabolism	ARL2
+Energy Metabolism	CACNA1A
+Energy Metabolism	CACNA1E
+Energy Metabolism	CACNB2
+Energy Metabolism	CACNB3
+Energy Metabolism	ACACB
+Energy Metabolism	ADCY1
+Energy Metabolism	ADCY2
+Energy Metabolism	ADCY3
+Energy Metabolism	ADCY4
+Energy Metabolism	ADCY5
+Energy Metabolism	ADCY6
+Energy Metabolism	ADCY7
+Energy Metabolism	ADCY8
+Energy Metabolism	ADCY9
+Energy Metabolism	PFKFB1
+Energy Metabolism	FASN
+Energy Metabolism	GNA11
+Energy Metabolism	GNA14
+Energy Metabolism	GNA15
+Energy Metabolism	GNAS
+Energy Metabolism	GNB1
+Energy Metabolism	GNB2
+Energy Metabolism	GNB3
+Energy Metabolism	GNB4
+Energy Metabolism	GNGT1
+Energy Metabolism	GNG3
+Energy Metabolism	GNG4
+Energy Metabolism	GNG5
+Energy Metabolism	GNG7
+Energy Metabolism	GNG8
+Energy Metabolism	GNG10
+Energy Metabolism	GNG11
+Energy Metabolism	GNG12
+Energy Metabolism	GNG13
+Energy Metabolism	GNGT2
+Energy Metabolism	GNAI1
+Energy Metabolism	GNAI2
+Energy Metabolism	GNAQ
+Energy Metabolism	GCGR
+Energy Metabolism	GCG
+Energy Metabolism	FFAR1
+Energy Metabolism	SLC2A1
+Energy Metabolism	SLC2A2
+Energy Metabolism	INS
+Energy Metabolism	ITPR3
+Energy Metabolism	KCNJ11
+Energy Metabolism	PRKAR1A
+Energy Metabolism	PRKAR1B
+Energy Metabolism	PRKAR2A
+Energy Metabolism	PRKAR2B
+Energy Metabolism	PRKACA
+Energy Metabolism	PRKACB
+Energy Metabolism	PRKACG
+Energy Metabolism	PRKCA
+Energy Metabolism	PKLR
+Energy Metabolism	MARCKS
+Energy Metabolism	MLX
+Energy Metabolism	PPP2CA
+Energy Metabolism	PPP2CB
+Energy Metabolism	PLCB1
+Energy Metabolism	PLCB2
+Energy Metabolism	PLCB3
+Energy Metabolism	AGPAT1
+Energy Metabolism	RAP1A
+Energy Metabolism	AHCYL1
+Energy Metabolism	STK11
+Energy Metabolism	SYT5
+Energy Metabolism	TALDO1
+Energy Metabolism	TKT
+Energy Metabolism	VAMP2
+Energy Metabolism	MLXIPL
+Energy Metabolism	ADIPOR1
+Energy Metabolism	ADIPOR2
+Energy Metabolism	GNG2
+Energy Metabolism	ADRA2C
+Energy Metabolism	CACNA2D2
+Energy Metabolism	ARL2BP
+Energy Metabolism	CACNA1C
+Energy Metabolism	GLP1R
+Energy Metabolism	AKAP5
+Energy Metabolism	KCNS3
+Energy Metabolism	IQGAP1
+Energy Metabolism	KCNB1
+Energy Metabolism	KCNG2
+Energy Metabolism	GNB5
+Energy Metabolism	RAPGEF3
+Energy Metabolism	SNAP25
+Energy Metabolism	STXBP1
+Energy Metabolism	CACNA1D
+Energy Metabolism	ABCC8
+Energy Metabolism	ACACA
+Energy Metabolism	ITPR2
+Energy Metabolism	ITPR1
+Energy Metabolism	PPP2R5D
+Energy Metabolism	STX1A
+Energy Metabolism	RAPGEF4
+Energy Metabolism	KCNC2
+Lipid Metabolism	HSD3B1
+Lipid Metabolism	HSD3B2
+Lipid Metabolism	AP2A1
+Lipid Metabolism	AP2A2
+Lipid Metabolism	AP2B1
+Lipid Metabolism	AP2M1
+Lipid Metabolism	A2M
+Lipid Metabolism	AP2S1
+Lipid Metabolism	PRKAA2
+Lipid Metabolism	PRKAB2
+Lipid Metabolism	PRKAG2
+Lipid Metabolism	ABCB11
+Lipid Metabolism	ABCA1
+Lipid Metabolism	ABCG5
+Lipid Metabolism	ABCG8
+Lipid Metabolism	DBI
+Lipid Metabolism	ACADL
+Lipid Metabolism	ACADM
+Lipid Metabolism	ACADS
+Lipid Metabolism	ACADVL
+Lipid Metabolism	ACHE
+Lipid Metabolism	ACLY
+Lipid Metabolism	SCD
+Lipid Metabolism	NDUFAB1
+Lipid Metabolism	AGPS
+Lipid Metabolism	PLIN2
+Lipid Metabolism	FDXR
+Lipid Metabolism	FDX1
+Lipid Metabolism	GLA
+Lipid Metabolism	AHR
+Lipid Metabolism	AKR1C1
+Lipid Metabolism	AKR1C2
+Lipid Metabolism	AKR1C3
+Lipid Metabolism	AKR1C4
+Lipid Metabolism	AKR1D1
+Lipid Metabolism	ALB
+Lipid Metabolism	AKR1B1
+Lipid Metabolism	ABCD1
+Lipid Metabolism	AMACR
+Lipid Metabolism	AGT
+Lipid Metabolism	ANGPTL3
+Lipid Metabolism	ANGPTL4
+Lipid Metabolism	APOA1
+Lipid Metabolism	APOA2
+Lipid Metabolism	APOA4
+Lipid Metabolism	APOB
+Lipid Metabolism	APOC1
+Lipid Metabolism	APOC2
+Lipid Metabolism	APOC3
+Lipid Metabolism	APOC4
+Lipid Metabolism	APOE
+Lipid Metabolism	APOF
+Lipid Metabolism	ACER3
+Lipid Metabolism	LPA
+Lipid Metabolism	ARF1
+Lipid Metabolism	ARF3
+Lipid Metabolism	ARNT2
+Lipid Metabolism	ARNT
+Lipid Metabolism	ARSA
+Lipid Metabolism	ARSB
+Lipid Metabolism	ARSD
+Lipid Metabolism	ARSE
+Lipid Metabolism	ARSF
+Lipid Metabolism	ASAH1
+Lipid Metabolism	SMPD1
+Lipid Metabolism	ACOT7
+Lipid Metabolism	CEL
+Lipid Metabolism	BDH1
+Lipid Metabolism	GLB1
+Lipid Metabolism	BHMT
+Lipid Metabolism	BMX
+Lipid Metabolism	CYP11A1
+Lipid Metabolism	CYP39A1
+Lipid Metabolism	ACOT12
+Lipid Metabolism	CRAT
+Lipid Metabolism	B4GALNT1
+Lipid Metabolism	ACOX1
+Lipid Metabolism	ACOX2
+Lipid Metabolism	ACOX3
+Lipid Metabolism	CAV1
+Lipid Metabolism	NFYB
+Lipid Metabolism	CREBBP
+Lipid Metabolism	CD36
+Lipid Metabolism	CDS1
+Lipid Metabolism	CDS2
+Lipid Metabolism	UGCG
+Lipid Metabolism	CETP
+Lipid Metabolism	ACOT9
+Lipid Metabolism	CCNC
+Lipid Metabolism	UGT8
+Lipid Metabolism	BCHE
+Lipid Metabolism	CIDEA
+Lipid Metabolism	CLOCK
+Lipid Metabolism	CPNE1
+Lipid Metabolism	CPNE3
+Lipid Metabolism	CPNE6
+Lipid Metabolism	CPNE7
+Lipid Metabolism	ACACB
+Lipid Metabolism	POMC
+Lipid Metabolism	CLPS
+Lipid Metabolism	COQ3
+Lipid Metabolism	COQ6
+Lipid Metabolism	COQ7
+Lipid Metabolism	CYP1A1
+Lipid Metabolism	CYP1A2
+Lipid Metabolism	CYP1B1
+Lipid Metabolism	CYP27A1
+Lipid Metabolism	CYP46A1
+Lipid Metabolism	CYP4B1
+Lipid Metabolism	CYP4A11
+Lipid Metabolism	CYP51A1
+Lipid Metabolism	CYP7A1
+Lipid Metabolism	CYP7B1
+Lipid Metabolism	CYP8B1
+Lipid Metabolism	CYP2C8
+Lipid Metabolism	CYP2C9
+Lipid Metabolism	CYP2C19
+Lipid Metabolism	CYP4F2
+Lipid Metabolism	CYP4F3
+Lipid Metabolism	CYP4F11
+Lipid Metabolism	CYP2J2
+Lipid Metabolism	CYP11B1
+Lipid Metabolism	CYP11B2
+Lipid Metabolism	CYP21A2
+Lipid Metabolism	CPT1A
+Lipid Metabolism	CPT2
+Lipid Metabolism	CYP17A1
+Lipid Metabolism	CPT1B
+Lipid Metabolism	CYP19A1
+Lipid Metabolism	MED17
+Lipid Metabolism	MED7
+Lipid Metabolism	SPTLC3
+Lipid Metabolism	FITM2
+Lipid Metabolism	CTGF
+Lipid Metabolism	PCYT1A
+Lipid Metabolism	PCYT1B
+Lipid Metabolism	MID1IP1
+Lipid Metabolism	ALDH7A1
+Lipid Metabolism	DAB1
+Lipid Metabolism	GNPAT
+Lipid Metabolism	MLYCD
+Lipid Metabolism	DECR1
+Lipid Metabolism	DGAT1
+Lipid Metabolism	ALDH3B1
+Lipid Metabolism	ALDH3B2
+Lipid Metabolism	HSD17B1
+Lipid Metabolism	HSD17B2
+Lipid Metabolism	HSD17B3
+Lipid Metabolism	HSD17B4
+Lipid Metabolism	HSD17B8
+Lipid Metabolism	DHCR7
+Lipid Metabolism	CBR1
+Lipid Metabolism	DHCR24
+Lipid Metabolism	HSD11B1
+Lipid Metabolism	HSD11B2
+Lipid Metabolism	EBP
+Lipid Metabolism	HADHA
+Lipid Metabolism	HADHB
+Lipid Metabolism	ECHS1
+Lipid Metabolism	EHHADH
+Lipid Metabolism	ETNK1
+Lipid Metabolism	ETNK2
+Lipid Metabolism	ELOVL1
+Lipid Metabolism	ELOVL2
+Lipid Metabolism	ELOVL3
+Lipid Metabolism	ELOVL4
+Lipid Metabolism	MVD
+Lipid Metabolism	TM7SF2
+Lipid Metabolism	SQLE
+Lipid Metabolism	LSS
+Lipid Metabolism	ESRRA
+Lipid Metabolism	FAAH
+Lipid Metabolism	FABP4
+Lipid Metabolism	FABP7
+Lipid Metabolism	FABP5
+Lipid Metabolism	FABP3
+Lipid Metabolism	FABP2
+Lipid Metabolism	FABP1
+Lipid Metabolism	FASN
+Lipid Metabolism	FDFT1
+Lipid Metabolism	FGF21
+Lipid Metabolism	ALOX5AP
+Lipid Metabolism	FDPS
+Lipid Metabolism	CIDEC
+Lipid Metabolism	FURIN
+Lipid Metabolism	KDSR
+Lipid Metabolism	FYN
+Lipid Metabolism	PIKFYVE
+Lipid Metabolism	G0S2
+Lipid Metabolism	GALC
+Lipid Metabolism	GGPS1
+Lipid Metabolism	GGT1
+Lipid Metabolism	GGT5
+Lipid Metabolism	GK2
+Lipid Metabolism	GBA
+Lipid Metabolism	CGA
+Lipid Metabolism	GLIPR1
+Lipid Metabolism	GK
+Lipid Metabolism	GLTP
+Lipid Metabolism	GPD1
+Lipid Metabolism	GPD2
+Lipid Metabolism	PNPLA4
+Lipid Metabolism	GPX1
+Lipid Metabolism	GPX2
+Lipid Metabolism	GPX4
+Lipid Metabolism	TECR
+Lipid Metabolism	HAO2
+Lipid Metabolism	HADH
+Lipid Metabolism	ALAS1
+Lipid Metabolism	HEXA
+Lipid Metabolism	HEXB
+Lipid Metabolism	HMGCS2
+Lipid Metabolism	HMGCS1
+Lipid Metabolism	HACL1
+Lipid Metabolism	HRASLS5
+Lipid Metabolism	HRASLS
+Lipid Metabolism	HRASLS2
+Lipid Metabolism	PLA2G16
+Lipid Metabolism	EPHX2
+Lipid Metabolism	IDH1
+Lipid Metabolism	IDI1
+Lipid Metabolism	IDI2
+Lipid Metabolism	FABP6
+Lipid Metabolism	KPNB1
+Lipid Metabolism	INSIG1
+Lipid Metabolism	PRKACA
+Lipid Metabolism	PRKACB
+Lipid Metabolism	PRKACG
+Lipid Metabolism	CSNK1G2
+Lipid Metabolism	CSNK2A2
+Lipid Metabolism	CSNK2B
+Lipid Metabolism	GPCPD1
+Lipid Metabolism	CHKB
+Lipid Metabolism	CHKA
+Lipid Metabolism	MVK
+Lipid Metabolism	PRKD1
+Lipid Metabolism	PRKD3
+Lipid Metabolism	PRKD2
+Lipid Metabolism	PTGR1
+Lipid Metabolism	LTC4S
+Lipid Metabolism	LCAT
+Lipid Metabolism	SPTLC1
+Lipid Metabolism	SPTLC2
+Lipid Metabolism	ACSL1
+Lipid Metabolism	ACSL3
+Lipid Metabolism	ACSL4
+Lipid Metabolism	ACSL5
+Lipid Metabolism	ACSL6
+Lipid Metabolism	LDLR
+Lipid Metabolism	VLDLR
+Lipid Metabolism	LIPA
+Lipid Metabolism	PNLIPRP1
+Lipid Metabolism	LIPG
+Lipid Metabolism	LIPF
+Lipid Metabolism	LIPC
+Lipid Metabolism	LPL
+Lipid Metabolism	PNLIP
+Lipid Metabolism	LIPE
+Lipid Metabolism	LTA4H
+Lipid Metabolism	ALOX15
+Lipid Metabolism	ALOX5
+Lipid Metabolism	ALOX12
+Lipid Metabolism	ALOX12B
+Lipid Metabolism	LPIN1
+Lipid Metabolism	LPIN2
+Lipid Metabolism	LPIN3
+Lipid Metabolism	LHB
+Lipid Metabolism	ALOX15B
+Lipid Metabolism	DMGDH
+Lipid Metabolism	ME1
+Lipid Metabolism	SLC25A20
+Lipid Metabolism	DPEP1
+Lipid Metabolism	ABCB4
+Lipid Metabolism	MED6
+Lipid Metabolism	STARD3NL
+Lipid Metabolism	MAPKAPK2
+Lipid Metabolism	STARD3
+Lipid Metabolism	ABCC1
+Lipid Metabolism	ABCC3
+Lipid Metabolism	MBTPS1
+Lipid Metabolism	MBTPS2
+Lipid Metabolism	MTM1
+Lipid Metabolism	MTTP
+Lipid Metabolism	MTMR1
+Lipid Metabolism	MTMR2
+Lipid Metabolism	MTMR3
+Lipid Metabolism	MTMR6
+Lipid Metabolism	MTMR7
+Lipid Metabolism	MUT
+Lipid Metabolism	NCOA2
+Lipid Metabolism	NEU1
+Lipid Metabolism	NEU2
+Lipid Metabolism	NEU3
+Lipid Metabolism	TRIB3
+Lipid Metabolism	SCP2
+Lipid Metabolism	NPAS2
+Lipid Metabolism	NPC1
+Lipid Metabolism	NPC2
+Lipid Metabolism	NR1D1
+Lipid Metabolism	NRF1
+Lipid Metabolism	NR1H2
+Lipid Metabolism	NSDHL
+Lipid Metabolism	SMPD2
+Lipid Metabolism	SLC10A2
+Lipid Metabolism	SLC10A1
+Lipid Metabolism	CROT
+Lipid Metabolism	OSBPL1A
+Lipid Metabolism	OSBPL2
+Lipid Metabolism	OSBPL3
+Lipid Metabolism	OSBPL5
+Lipid Metabolism	OSBPL6
+Lipid Metabolism	OSBPL7
+Lipid Metabolism	OSBPL8
+Lipid Metabolism	OSBPL9
+Lipid Metabolism	OSBPL10
+Lipid Metabolism	OSBP
+Lipid Metabolism	PIK3CA
+Lipid Metabolism	PIK3CB
+Lipid Metabolism	PIK3CD
+Lipid Metabolism	PIK3CG
+Lipid Metabolism	EP300
+Lipid Metabolism	PIK3R3
+Lipid Metabolism	PIK3R1
+Lipid Metabolism	PIK3R2
+Lipid Metabolism	PLA2G1B
+Lipid Metabolism	PLA2G3
+Lipid Metabolism	PLA2G4A
+Lipid Metabolism	PLA2G5
+Lipid Metabolism	PLA2G6
+Lipid Metabolism	PLA2G2A
+Lipid Metabolism	PLA2G2D
+Lipid Metabolism	PLA2G2E
+Lipid Metabolism	PLA2G2F
+Lipid Metabolism	PLA2G10
+Lipid Metabolism	PLA2G12A
+Lipid Metabolism	PHYH
+Lipid Metabolism	PCCA
+Lipid Metabolism	PCCB
+Lipid Metabolism	PCSK5
+Lipid Metabolism	STARD10
+Lipid Metabolism	PCYT2
+Lipid Metabolism	P4HB
+Lipid Metabolism	PEMT
+Lipid Metabolism	HPGDS
+Lipid Metabolism	HPGD
+Lipid Metabolism	PTGS1
+Lipid Metabolism	PTGS2
+Lipid Metabolism	PTGDS
+Lipid Metabolism	PI4KA
+Lipid Metabolism	PIP4K2A
+Lipid Metabolism	CDIPT
+Lipid Metabolism	PIK3C2B
+Lipid Metabolism	PIK3C2G
+Lipid Metabolism	AGPAT1
+Lipid Metabolism	AGPAT2
+Lipid Metabolism	AGPAT3
+Lipid Metabolism	AGPAT4
+Lipid Metabolism	AGPAT5
+Lipid Metabolism	PLD2
+Lipid Metabolism	PLIN1
+Lipid Metabolism	GPAM
+Lipid Metabolism	PLTP
+Lipid Metabolism	SLC25A17
+Lipid Metabolism	PMVK
+Lipid Metabolism	ACOT13
+Lipid Metabolism	PON1
+Lipid Metabolism	PON2
+Lipid Metabolism	PON3
+Lipid Metabolism	PPP1CA
+Lipid Metabolism	PPP1CB
+Lipid Metabolism	PPP1CC
+Lipid Metabolism	PPARA
+Lipid Metabolism	PPARD
+Lipid Metabolism	ALPI
+Lipid Metabolism	PCTP
+Lipid Metabolism	PITPNB
+Lipid Metabolism	PPT1
+Lipid Metabolism	PPT2
+Lipid Metabolism	CTSA
+Lipid Metabolism	PTDSS1
+Lipid Metabolism	ACOT8
+Lipid Metabolism	ACOT2
+Lipid Metabolism	PTEN
+Lipid Metabolism	PTGES
+Lipid Metabolism	PTGIS
+Lipid Metabolism	PTPN13
+Lipid Metabolism	RAB14
+Lipid Metabolism	RAB5A
+Lipid Metabolism	RELN
+Lipid Metabolism	RGL1
+Lipid Metabolism	RORA
+Lipid Metabolism	RXRA
+Lipid Metabolism	SLCO1A2
+Lipid Metabolism	SLCO1B1
+Lipid Metabolism	SLCO1B3
+Lipid Metabolism	SEC23A
+Lipid Metabolism	SEC24A
+Lipid Metabolism	SEC24B
+Lipid Metabolism	SEC24C
+Lipid Metabolism	SEC24D
+Lipid Metabolism	SRD5A1
+Lipid Metabolism	GM2A
+Lipid Metabolism	PSAP
+Lipid Metabolism	SAR1B
+Lipid Metabolism	SCAP
+Lipid Metabolism	OXCT1
+Lipid Metabolism	FHL2
+Lipid Metabolism	SOAT1
+Lipid Metabolism	SOAT2
+Lipid Metabolism	SP1
+Lipid Metabolism	SPHK1
+Lipid Metabolism	SPHK2
+Lipid Metabolism	MED21
+Lipid Metabolism	SREBF2
+Lipid Metabolism	STAR
+Lipid Metabolism	STARD4
+Lipid Metabolism	STARD5
+Lipid Metabolism	STARD6
+Lipid Metabolism	STARD7
+Lipid Metabolism	STS
+Lipid Metabolism	SULT2A1
+Lipid Metabolism	MED22
+Lipid Metabolism	SYNJ1
+Lipid Metabolism	SYNJ2
+Lipid Metabolism	MED24
+Lipid Metabolism	THRAP3
+Lipid Metabolism	MED12
+Lipid Metabolism	MED13
+Lipid Metabolism	TBL1XR1
+Lipid Metabolism	TBL1X
+Lipid Metabolism	TEAD1
+Lipid Metabolism	TEAD2
+Lipid Metabolism	TEAD3
+Lipid Metabolism	TEAD4
+Lipid Metabolism	PTGES3
+Lipid Metabolism	TAZ
+Lipid Metabolism	TBXAS1
+Lipid Metabolism	ACOT11
+Lipid Metabolism	THRSP
+Lipid Metabolism	ACAA1
+Lipid Metabolism	ACAT1
+Lipid Metabolism	ACAA2
+Lipid Metabolism	PLIN3
+Lipid Metabolism	RARRES3
+Lipid Metabolism	TPTE
+Lipid Metabolism	TNFRSF21
+Lipid Metabolism	TXNRD1
+Lipid Metabolism	SLC25A1
+Lipid Metabolism	VAPA
+Lipid Metabolism	VAPB
+Lipid Metabolism	HDLBP
+Lipid Metabolism	SLC27A2
+Lipid Metabolism	LPGAT1
+Lipid Metabolism	FIG4
+Lipid Metabolism	YAP1
+Lipid Metabolism	ZDHHC8
+Lipid Metabolism	CDK8
+Lipid Metabolism	RAN
+Lipid Metabolism	RAB4A
+Lipid Metabolism	PLD1
+Lipid Metabolism	LBR
+Lipid Metabolism	MCEE
+Lipid Metabolism	HMGCL
+Lipid Metabolism	PNPLA3
+Lipid Metabolism	AMN
+Lipid Metabolism	CERK
+Lipid Metabolism	TMEM55B
+Lipid Metabolism	CRLS1
+Lipid Metabolism	DDHD1
+Lipid Metabolism	MMAA
+Lipid Metabolism	PI4KB
+Lipid Metabolism	INPP5J
+Lipid Metabolism	PCSK9
+Lipid Metabolism	EPT1
+Lipid Metabolism	SGPL1
+Lipid Metabolism	SH3KBP1
+Lipid Metabolism	INPP5K
+Lipid Metabolism	SIN3A
+Lipid Metabolism	SIN3B
+Lipid Metabolism	MED31
+Lipid Metabolism	SGPP1
+Lipid Metabolism	SGPP2
+Lipid Metabolism	SCARB1
+Lipid Metabolism	SUMF1
+Lipid Metabolism	SUMF2
+Lipid Metabolism	MED20
+Lipid Metabolism	HSD3B7
+Lipid Metabolism	B3GALNT1
+Lipid Metabolism	ARNTL
+Lipid Metabolism	BMP1
+Lipid Metabolism	COL4A3BP
+Lipid Metabolism	CHDH
+Lipid Metabolism	ACOT1
+Lipid Metabolism	ALDH3A2
+Lipid Metabolism	MCAT
+Lipid Metabolism	HMGCR
+Lipid Metabolism	INPP5E
+Lipid Metabolism	MGLL
+Lipid Metabolism	MYLIP
+Lipid Metabolism	PLA2G4C
+Lipid Metabolism	PIP4K2B
+Lipid Metabolism	PLEKHA1
+Lipid Metabolism	PLEKHA2
+Lipid Metabolism	PLEKHA3
+Lipid Metabolism	PLEKHA4
+Lipid Metabolism	PLEKHA5
+Lipid Metabolism	PLEKHA6
+Lipid Metabolism	PPARGC1A
+Lipid Metabolism	PTDSS2
+Lipid Metabolism	ACOT4
+Lipid Metabolism	RUFY1
+Lipid Metabolism	SARDH
+Lipid Metabolism	OLAH
+Lipid Metabolism	SGMS1
+Lipid Metabolism	SGMS2
+Lipid Metabolism	SREBF1
+Lipid Metabolism	ACAT2
+Lipid Metabolism	BAAT
+Lipid Metabolism	THEM4
+Lipid Metabolism	LDLRAP1
+Lipid Metabolism	APOA5
+Lipid Metabolism	PIK3C3
+Lipid Metabolism	PIK3R4
+Lipid Metabolism	CH25H
+Lipid Metabolism	SLC27A5
+Lipid Metabolism	TGS1
+Lipid Metabolism	CSNK2A1
+Lipid Metabolism	CYP4F22
+Lipid Metabolism	MED25
+Lipid Metabolism	MED14
+Lipid Metabolism	MED30
+Lipid Metabolism	MED4
+Lipid Metabolism	AACS
+Lipid Metabolism	ABHD3
+Lipid Metabolism	ABHD4
+Lipid Metabolism	ABHD5
+Lipid Metabolism	ACBD4
+Lipid Metabolism	ACBD5
+Lipid Metabolism	ACBD6
+Lipid Metabolism	ACBD7
+Lipid Metabolism	ACSBG1
+Lipid Metabolism	ACSBG2
+Lipid Metabolism	ACAD10
+Lipid Metabolism	ACAD11
+Lipid Metabolism	ACOT6
+Lipid Metabolism	ACOXL
+Lipid Metabolism	ACSF2
+Lipid Metabolism	ACSF3
+Lipid Metabolism	ACSM3
+Lipid Metabolism	ACSS3
+Lipid Metabolism	NCEH1
+Lipid Metabolism	AGK
+Lipid Metabolism	ANKRD1
+Lipid Metabolism	ARSG
+Lipid Metabolism	ARSH
+Lipid Metabolism	ARSI
+Lipid Metabolism	ARSJ
+Lipid Metabolism	ARSK
+Lipid Metabolism	ARV1
+Lipid Metabolism	ACER2
+Lipid Metabolism	ASAH2
+Lipid Metabolism	ACER1
+Lipid Metabolism	AWAT1
+Lipid Metabolism	AWAT2
+Lipid Metabolism	BDH2
+Lipid Metabolism	CARM1
+Lipid Metabolism	CBR4
+Lipid Metabolism	CDK19
+Lipid Metabolism	CEPT1
+Lipid Metabolism	CHD9
+Lipid Metabolism	CHPT1
+Lipid Metabolism	COQ2
+Lipid Metabolism	COQ5
+Lipid Metabolism	COQ9
+Lipid Metabolism	CREB3L3
+Lipid Metabolism	SLC44A1
+Lipid Metabolism	SLC44A2
+Lipid Metabolism	SLC44A3
+Lipid Metabolism	SLC44A4
+Lipid Metabolism	SLC44A5
+Lipid Metabolism	CUBN
+Lipid Metabolism	DDHD2
+Lipid Metabolism	DECR2
+Lipid Metabolism	DEGS1
+Lipid Metabolism	DEGS2
+Lipid Metabolism	DGAT2L6
+Lipid Metabolism	DGAT2
+Lipid Metabolism	HSD17B11
+Lipid Metabolism	HSD17B12
+Lipid Metabolism	HSD17B13
+Lipid Metabolism	HSD17B14
+Lipid Metabolism	PDSS2
+Lipid Metabolism	DPEP2
+Lipid Metabolism	DPEP3
+Lipid Metabolism	PDSS1
+Lipid Metabolism	ELOVL5
+Lipid Metabolism	ELOVL6
+Lipid Metabolism	ELOVL7
+Lipid Metabolism	ENPP6
+Lipid Metabolism	ENPP7
+Lipid Metabolism	CES3
+Lipid Metabolism	ESYT1
+Lipid Metabolism	ESYT2
+Lipid Metabolism	ESYT3
+Lipid Metabolism	FAAH2
+Lipid Metabolism	FABP9
+Lipid Metabolism	FAR1
+Lipid Metabolism	FAR2
+Lipid Metabolism	FADS1
+Lipid Metabolism	FADS2
+Lipid Metabolism	GBA2
+Lipid Metabolism	GDE1
+Lipid Metabolism	GDPD1
+Lipid Metabolism	GDPD3
+Lipid Metabolism	GDPD5
+Lipid Metabolism	GLB1L
+Lipid Metabolism	GLTPD1
+Lipid Metabolism	GPD1L
+Lipid Metabolism	GRHL1
+Lipid Metabolism	GPIHBP1
+Lipid Metabolism	INPP4A
+Lipid Metabolism	INPP4B
+Lipid Metabolism	INSIG2
+Lipid Metabolism	LIPH
+Lipid Metabolism	LIPI
+Lipid Metabolism	LIPJ
+Lipid Metabolism	LIPK
+Lipid Metabolism	LIPM
+Lipid Metabolism	LIPN
+Lipid Metabolism	PNLIPRP3
+Lipid Metabolism	LMF1
+Lipid Metabolism	LMF2
+Lipid Metabolism	LSR
+Lipid Metabolism	LCLAT1
+Lipid Metabolism	MBOAT1
+Lipid Metabolism	MBOAT2
+Lipid Metabolism	LPCAT3
+Lipid Metabolism	MBOAT7
+Lipid Metabolism	MED13L
+Lipid Metabolism	MED10
+Lipid Metabolism	MED11
+Lipid Metabolism	MED18
+Lipid Metabolism	MED19
+Lipid Metabolism	MED28
+Lipid Metabolism	MED29
+Lipid Metabolism	MED9
+Lipid Metabolism	MFSD2A
+Lipid Metabolism	MOGAT1
+Lipid Metabolism	MOGAT2
+Lipid Metabolism	MOGAT3
+Lipid Metabolism	MTF1
+Lipid Metabolism	MTMR4
+Lipid Metabolism	MTMR14
+Lipid Metabolism	NPC1L1
+Lipid Metabolism	SMPD3
+Lipid Metabolism	SMPD4
+Lipid Metabolism	NUDT19
+Lipid Metabolism	NUDT7
+Lipid Metabolism	ORMDL1
+Lipid Metabolism	ORMDL2
+Lipid Metabolism	ORMDL3
+Lipid Metabolism	PIK3C2A
+Lipid Metabolism	PI4K2A
+Lipid Metabolism	PI4K2B
+Lipid Metabolism	PLA2G4D
+Lipid Metabolism	PLA2G4E
+Lipid Metabolism	PLA2G4F
+Lipid Metabolism	LPCAT1
+Lipid Metabolism	LPCAT2
+Lipid Metabolism	PECR
+Lipid Metabolism	PTGES2
+Lipid Metabolism	PHOSPHO1
+Lipid Metabolism	PIK3R5
+Lipid Metabolism	PIK3R6
+Lipid Metabolism	PIP4K2C
+Lipid Metabolism	PIP5K1A
+Lipid Metabolism	PIP5K1B
+Lipid Metabolism	PIP5K1C
+Lipid Metabolism	PITPNM1
+Lipid Metabolism	PITPNM2
+Lipid Metabolism	PITPNM3
+Lipid Metabolism	PLEKHA8
+Lipid Metabolism	PLA1A
+Lipid Metabolism	PLA2R1
+Lipid Metabolism	PLB1
+Lipid Metabolism	PLBD1
+Lipid Metabolism	AGPAT6
+Lipid Metabolism	LPCAT4
+Lipid Metabolism	AGPAT9
+Lipid Metabolism	PLD3
+Lipid Metabolism	PLD4
+Lipid Metabolism	PNPLA2
+Lipid Metabolism	PNPLA5
+Lipid Metabolism	PNPLA6
+Lipid Metabolism	PNPLA7
+Lipid Metabolism	PNPLA8
+Lipid Metabolism	GPAT2
+Lipid Metabolism	ACP6
+Lipid Metabolism	PPM1L
+Lipid Metabolism	PPARGC1B
+Lipid Metabolism	PTPLAD1
+Lipid Metabolism	PTPLAD2
+Lipid Metabolism	PTPMT1
+Lipid Metabolism	PEX11A
+Lipid Metabolism	SLC27A1
+Lipid Metabolism	SLC27A3
+Lipid Metabolism	TECRL
+Lipid Metabolism	SRD5A3
+Lipid Metabolism	SACM1L
+Lipid Metabolism	SCD5
+Lipid Metabolism	INPP5D
+Lipid Metabolism	INPPL1
+Lipid Metabolism	SMARCD3
+Lipid Metabolism	TNFAIP8
+Lipid Metabolism	THEM5
+Lipid Metabolism	TMEM86B
+Lipid Metabolism	TNFAIP8L1
+Lipid Metabolism	TNFAIP8L2
+Lipid Metabolism	TPTE2
+Lipid Metabolism	FITM1
+Lipid Metabolism	VAC14
+Lipid Metabolism	WWTR1
+Lipid Metabolism	PLD6
+Lipid Metabolism	PTGR2
+Lipid Metabolism	CHAT
+Lipid Metabolism	C10orf129
+Lipid Metabolism	AHRR
+Lipid Metabolism	FAM120B
+Lipid Metabolism	HMGCLL1
+Lipid Metabolism	PGS1
+Lipid Metabolism	INPP5F
+Lipid Metabolism	TNFAIP8L3
+Lipid Metabolism	NCOA6
+Lipid Metabolism	CYP4A22
+Lipid Metabolism	FABP12
+Lipid Metabolism	PTPLA
+Lipid Metabolism	PTPLB
+Lipid Metabolism	HDAC3
+Lipid Metabolism	NCOR1
+Lipid Metabolism	MED26
+Lipid Metabolism	CLTA
+Lipid Metabolism	NFYA
+Lipid Metabolism	PCSK6
+Lipid Metabolism	PPARG
+Lipid Metabolism	ABCG1
+Lipid Metabolism	HSD17B7
+Lipid Metabolism	CLTC
+Lipid Metabolism	OCRL
+Lipid Metabolism	ACACA
+Lipid Metabolism	NR1H3
+Lipid Metabolism	NFYC
+Lipid Metabolism	MED1
+Lipid Metabolism	NCOA1
+Lipid Metabolism	MED27
+Lipid Metabolism	CYP2U1
+Lipid Metabolism	TIAM2
+Lipid Metabolism	MED8
+Lipid Metabolism	NR1H4
+Lipid Metabolism	MED15
+Lipid Metabolism	MED23
+Lipid Metabolism	MED16
+Lipid Metabolism	NCOR2
+Lipid Metabolism	NCOA3
+Lipid Metabolism	PISD
+Lipid Metabolism	NEU4
+Lipid Metabolism	AKR1B15
+Nucleotide Metabolism	NT5C2
+Nucleotide Metabolism	NT5E
+Nucleotide Metabolism	ADA
+Nucleotide Metabolism	ADK
+Nucleotide Metabolism	AGXT2
+Nucleotide Metabolism	AMPD1
+Nucleotide Metabolism	AMPD2
+Nucleotide Metabolism	AMPD3
+Nucleotide Metabolism	APRT
+Nucleotide Metabolism	UPB1
+Nucleotide Metabolism	CAT
+Nucleotide Metabolism	CDA
+Nucleotide Metabolism	DCK
+Nucleotide Metabolism	DCTD
+Nucleotide Metabolism	DGUOK
+Nucleotide Metabolism	DPYD
+Nucleotide Metabolism	DPYS
+Nucleotide Metabolism	ENTPD1
+Nucleotide Metabolism	ENTPD2
+Nucleotide Metabolism	ENTPD3
+Nucleotide Metabolism	ENTPD4
+Nucleotide Metabolism	ENTPD5
+Nucleotide Metabolism	ENTPD6
+Nucleotide Metabolism	GLRX
+Nucleotide Metabolism	GMPR
+Nucleotide Metabolism	GMPR2
+Nucleotide Metabolism	GPX1
+Nucleotide Metabolism	GMPS
+Nucleotide Metabolism	GDA
+Nucleotide Metabolism	HPRT1
+Nucleotide Metabolism	IMPDH1
+Nucleotide Metabolism	IMPDH2
+Nucleotide Metabolism	AK1
+Nucleotide Metabolism	AK2
+Nucleotide Metabolism	AK5
+Nucleotide Metabolism	CMPK1
+Nucleotide Metabolism	GUK1
+Nucleotide Metabolism	TK2
+Nucleotide Metabolism	DTYMK
+Nucleotide Metabolism	NME1
+Nucleotide Metabolism	NME2
+Nucleotide Metabolism	NME4
+Nucleotide Metabolism	NUDT5
+Nucleotide Metabolism	PNP
+Nucleotide Metabolism	PPAT
+Nucleotide Metabolism	GART
+Nucleotide Metabolism	PFAS
+Nucleotide Metabolism	PAICS
+Nucleotide Metabolism	ADSL
+Nucleotide Metabolism	ATIC
+Nucleotide Metabolism	ADSS
+Nucleotide Metabolism	CAD
+Nucleotide Metabolism	UMPS
+Nucleotide Metabolism	DHODH
+Nucleotide Metabolism	RRM1
+Nucleotide Metabolism	RRM2
+Nucleotide Metabolism	TXN
+Nucleotide Metabolism	TXNRD1
+Nucleotide Metabolism	TYMP
+Nucleotide Metabolism	TYMS
+Nucleotide Metabolism	UCK1
+Nucleotide Metabolism	UCK2
+Nucleotide Metabolism	UPP1
+Nucleotide Metabolism	XDH
+Nucleotide Metabolism	TK1
+Nucleotide Metabolism	ITPA
+Nucleotide Metabolism	AK7
+Nucleotide Metabolism	NT5C
+Nucleotide Metabolism	NT5M
+Nucleotide Metabolism	ADSSL1
+Nucleotide Metabolism	UPP2
+Nucleotide Metabolism	NT5C1A
+Nucleotide Metabolism	NT5C1B
+Nucleotide Metabolism	DUT
+Nucleotide Metabolism	NUDT13
+Nucleotide Metabolism	POMP
+Nucleotide Metabolism	NUDT1
+Nucleotide Metabolism	ADAL
+Nucleotide Metabolism	DDX31
+Nucleotide Metabolism	ENTPD7
+Nucleotide Metabolism	ENTPD8
+Nucleotide Metabolism	GSR
+Nucleotide Metabolism	LHPP
+Nucleotide Metabolism	NUDT15
+Nucleotide Metabolism	NUDT16
+Nucleotide Metabolism	CTPS2
+Nucleotide Metabolism	RRM2B
+Nucleotide Metabolism	DCTPP1
+Nucleotide Metabolism	NUDT18
+Nucleotide Metabolism	NUDT9
+TCA cycle Metabolism	ACO2
+TCA cycle Metabolism	NDUFAB1
+TCA cycle Metabolism	ATP5G1
+TCA cycle Metabolism	ATP5G2
+TCA cycle Metabolism	ATP5G3
+TCA cycle Metabolism	ATP5A1
+TCA cycle Metabolism	ATP5B
+TCA cycle Metabolism	ATP5D
+TCA cycle Metabolism	ATP5E
+TCA cycle Metabolism	ATP5F1
+TCA cycle Metabolism	ATP5C1
+TCA cycle Metabolism	ATP5I
+TCA cycle Metabolism	ATP5J2
+TCA cycle Metabolism	ATP5L
+TCA cycle Metabolism	ATP5O
+TCA cycle Metabolism	ATP5H
+TCA cycle Metabolism	ATP5J
+TCA cycle Metabolism	ATP5S
+TCA cycle Metabolism	BSG
+TCA cycle Metabolism	SDHC
+TCA cycle Metabolism	NDUFAF1
+TCA cycle Metabolism	CS
+TCA cycle Metabolism	COX7A2L
+TCA cycle Metabolism	COX5A
+TCA cycle Metabolism	COX5B
+TCA cycle Metabolism	COX6A1
+TCA cycle Metabolism	COX6B1
+TCA cycle Metabolism	COX6C
+TCA cycle Metabolism	COX7B
+TCA cycle Metabolism	COX7C
+TCA cycle Metabolism	COX8A
+TCA cycle Metabolism	COX11
+TCA cycle Metabolism	COX4I1
+TCA cycle Metabolism	CYC1
+TCA cycle Metabolism	CYCS
+TCA cycle Metabolism	SDHA
+TCA cycle Metabolism	SDHB
+TCA cycle Metabolism	SDHD
+TCA cycle Metabolism	DLD
+TCA cycle Metabolism	ETFA
+TCA cycle Metabolism	ETFB
+TCA cycle Metabolism	FH
+TCA cycle Metabolism	IDH3A
+TCA cycle Metabolism	IDH3B
+TCA cycle Metabolism	IDH3G
+TCA cycle Metabolism	IDH2
+TCA cycle Metabolism	LDHA
+TCA cycle Metabolism	LDHB
+TCA cycle Metabolism	LDHC
+TCA cycle Metabolism	LDHAL6B
+TCA cycle Metabolism	GLO1
+TCA cycle Metabolism	LRPPRC
+TCA cycle Metabolism	MDH2
+TCA cycle Metabolism	SLC16A1
+TCA cycle Metabolism	SLC16A8
+TCA cycle Metabolism	SLC16A3
+TCA cycle Metabolism	NDUFA7
+TCA cycle Metabolism	NDUFC2
+TCA cycle Metabolism	NDUFA12
+TCA cycle Metabolism	NDUFB3
+TCA cycle Metabolism	NDUFA6
+TCA cycle Metabolism	NDUFB4
+TCA cycle Metabolism	NDUFA13
+TCA cycle Metabolism	NDUFB6
+TCA cycle Metabolism	NDUFB7
+TCA cycle Metabolism	NDUFB9
+TCA cycle Metabolism	NDUFA2
+TCA cycle Metabolism	NDUFA3
+TCA cycle Metabolism	NDUFB8
+TCA cycle Metabolism	NDUFB10
+TCA cycle Metabolism	NDUFB2
+TCA cycle Metabolism	NDUFC1
+TCA cycle Metabolism	NDUFA1
+TCA cycle Metabolism	NDUFB1
+TCA cycle Metabolism	NDUFS5
+TCA cycle Metabolism	NDUFB5
+TCA cycle Metabolism	NNT
+TCA cycle Metabolism	NDUFS1
+TCA cycle Metabolism	NDUFV1
+TCA cycle Metabolism	NDUFS2
+TCA cycle Metabolism	NDUFA10
+TCA cycle Metabolism	NDUFA9
+TCA cycle Metabolism	NDUFA5
+TCA cycle Metabolism	NDUFS3
+TCA cycle Metabolism	NDUFV2
+TCA cycle Metabolism	NDUFS8
+TCA cycle Metabolism	NDUFS7
+TCA cycle Metabolism	NDUFA4
+TCA cycle Metabolism	NDUFS6
+TCA cycle Metabolism	NDUFV3
+TCA cycle Metabolism	NDUFA8
+TCA cycle Metabolism	NDUFS4
+TCA cycle Metabolism	OGDH
+TCA cycle Metabolism	DLST
+TCA cycle Metabolism	DLAT
+TCA cycle Metabolism	PDHA1
+TCA cycle Metabolism	PDHB
+TCA cycle Metabolism	PDHX
+TCA cycle Metabolism	PDK1
+TCA cycle Metabolism	PDK2
+TCA cycle Metabolism	PDK3
+TCA cycle Metabolism	PDK4
+TCA cycle Metabolism	PDP1
+TCA cycle Metabolism	PDP2
+TCA cycle Metabolism	PPARD
+TCA cycle Metabolism	RXRA
+TCA cycle Metabolism	SUCLA2
+TCA cycle Metabolism	SUCLG2
+TCA cycle Metabolism	SCO1
+TCA cycle Metabolism	SCO2
+TCA cycle Metabolism	SUCLG1
+TCA cycle Metabolism	SURF1
+TCA cycle Metabolism	TRAP1
+TCA cycle Metabolism	UCP1
+TCA cycle Metabolism	UCP2
+TCA cycle Metabolism	SLC25A27
+TCA cycle Metabolism	UQCRC1
+TCA cycle Metabolism	UQCRC2
+TCA cycle Metabolism	UQCRB
+TCA cycle Metabolism	UQCRH
+TCA cycle Metabolism	UQCRFS1
+TCA cycle Metabolism	UQCRQ
+TCA cycle Metabolism	UQCR10
+TCA cycle Metabolism	UQCR11
+TCA cycle Metabolism	ACAD9
+TCA cycle Metabolism	NDUFAF4
+TCA cycle Metabolism	NUBPL
+TCA cycle Metabolism	NDUFB11
+TCA cycle Metabolism	COX18
+TCA cycle Metabolism	TACO1
+TCA cycle Metabolism	LDHAL6A
+TCA cycle Metabolism	NDUFA11
+TCA cycle Metabolism	ECSIT
+TCA cycle Metabolism	NDUFAF3
+TCA cycle Metabolism	COX16
+TCA cycle Metabolism	COX19
+TCA cycle Metabolism	COQ10A
+TCA cycle Metabolism	COQ10B
+TCA cycle Metabolism	D2HGDH
+TCA cycle Metabolism	ADHFE1
+TCA cycle Metabolism	L2HGDH
+TCA cycle Metabolism	NDUFAF2
+TCA cycle Metabolism	TMEM126B
+TCA cycle Metabolism	PDPR
+TCA cycle Metabolism	SLC25A14
+TCA cycle Metabolism	UCP3
+TCA cycle Metabolism	ETFDH
+TCA cycle Metabolism	HAGH
+Vitamin cofactor Metabolism	NT5E
+Vitamin cofactor Metabolism	ABCD4
+Vitamin cofactor Metabolism	AOX1
+Vitamin cofactor Metabolism	AKR1B10
+Vitamin cofactor Metabolism	AKR1C1
+Vitamin cofactor Metabolism	AKR1C3
+Vitamin cofactor Metabolism	AKR1C4
+Vitamin cofactor Metabolism	APOA1
+Vitamin cofactor Metabolism	APOA2
+Vitamin cofactor Metabolism	APOA4
+Vitamin cofactor Metabolism	APOB
+Vitamin cofactor Metabolism	APOC2
+Vitamin cofactor Metabolism	APOC3
+Vitamin cofactor Metabolism	APOE
+Vitamin cofactor Metabolism	APOM
+Vitamin cofactor Metabolism	HLCS
+Vitamin cofactor Metabolism	BST1
+Vitamin cofactor Metabolism	BTD
+Vitamin cofactor Metabolism	MTHFD1
+Vitamin cofactor Metabolism	CD38
+Vitamin cofactor Metabolism	CTRC
+Vitamin cofactor Metabolism	ACACB
+Vitamin cofactor Metabolism	CLPS
+Vitamin cofactor Metabolism	CYP24A1
+Vitamin cofactor Metabolism	CYP27B1
+Vitamin cofactor Metabolism	CYP8B1
+Vitamin cofactor Metabolism	CTRB1
+Vitamin cofactor Metabolism	CYB5A
+Vitamin cofactor Metabolism	SLC25A19
+Vitamin cofactor Metabolism	DHFR
+Vitamin cofactor Metabolism	FASN
+Vitamin cofactor Metabolism	SLC19A1
+Vitamin cofactor Metabolism	FOLR2
+Vitamin cofactor Metabolism	ALDH1L1
+Vitamin cofactor Metabolism	MTHFS
+Vitamin cofactor Metabolism	SLC25A16
+Vitamin cofactor Metabolism	GPHN
+Vitamin cofactor Metabolism	SHMT1
+Vitamin cofactor Metabolism	SHMT2
+Vitamin cofactor Metabolism	GPC1
+Vitamin cofactor Metabolism	GPC3
+Vitamin cofactor Metabolism	GPC4
+Vitamin cofactor Metabolism	GPC5
+Vitamin cofactor Metabolism	GPC6
+Vitamin cofactor Metabolism	GSTO1
+Vitamin cofactor Metabolism	SLC2A1
+Vitamin cofactor Metabolism	SLC2A3
+Vitamin cofactor Metabolism	GIF
+Vitamin cofactor Metabolism	LDLR
+Vitamin cofactor Metabolism	LGMN
+Vitamin cofactor Metabolism	LPL
+Vitamin cofactor Metabolism	PNLIP
+Vitamin cofactor Metabolism	LRP1
+Vitamin cofactor Metabolism	LRP2
+Vitamin cofactor Metabolism	MCCC1
+Vitamin cofactor Metabolism	MCCC2
+Vitamin cofactor Metabolism	MTR
+Vitamin cofactor Metabolism	SLC25A32
+Vitamin cofactor Metabolism	MOCS3
+Vitamin cofactor Metabolism	ABCC1
+Vitamin cofactor Metabolism	MOCS2
+Vitamin cofactor Metabolism	MTHFD2
+Vitamin cofactor Metabolism	MTHFR
+Vitamin cofactor Metabolism	MTRR
+Vitamin cofactor Metabolism	MUT
+Vitamin cofactor Metabolism	QPRT
+Vitamin cofactor Metabolism	COASY
+Vitamin cofactor Metabolism	CYB5R3
+Vitamin cofactor Metabolism	NNMT
+Vitamin cofactor Metabolism	ENPP1
+Vitamin cofactor Metabolism	ENPP2
+Vitamin cofactor Metabolism	ENPP3
+Vitamin cofactor Metabolism	NAMPT
+Vitamin cofactor Metabolism	PCCA
+Vitamin cofactor Metabolism	PCCB
+Vitamin cofactor Metabolism	PDXK
+Vitamin cofactor Metabolism	HSPG2
+Vitamin cofactor Metabolism	PTGS2
+Vitamin cofactor Metabolism	PANK2
+Vitamin cofactor Metabolism	PANK3
+Vitamin cofactor Metabolism	PANK4
+Vitamin cofactor Metabolism	ACP5
+Vitamin cofactor Metabolism	NADK
+Vitamin cofactor Metabolism	PARP4
+Vitamin cofactor Metabolism	PTGIS
+Vitamin cofactor Metabolism	PC
+Vitamin cofactor Metabolism	RBP1
+Vitamin cofactor Metabolism	RBP2
+Vitamin cofactor Metabolism	RBP4
+Vitamin cofactor Metabolism	SDC1
+Vitamin cofactor Metabolism	SDC2
+Vitamin cofactor Metabolism	SDC3
+Vitamin cofactor Metabolism	SDC4
+Vitamin cofactor Metabolism	SLC5A6
+Vitamin cofactor Metabolism	LRP12
+Vitamin cofactor Metabolism	SLC23A1
+Vitamin cofactor Metabolism	SLC23A2
+Vitamin cofactor Metabolism	TCN1
+Vitamin cofactor Metabolism	TCN2
+Vitamin cofactor Metabolism	SLC19A2
+Vitamin cofactor Metabolism	PRSS1
+Vitamin cofactor Metabolism	PRSS3
+Vitamin cofactor Metabolism	TTR
+Vitamin cofactor Metabolism	VNN1
+Vitamin cofactor Metabolism	VNN2
+Vitamin cofactor Metabolism	GC
+Vitamin cofactor Metabolism	LRAT
+Vitamin cofactor Metabolism	AMN
+Vitamin cofactor Metabolism	PARP9
+Vitamin cofactor Metabolism	BCMO1
+Vitamin cofactor Metabolism	BCO2
+Vitamin cofactor Metabolism	GSTO2
+Vitamin cofactor Metabolism	MMAA
+Vitamin cofactor Metabolism	MMAB
+Vitamin cofactor Metabolism	NMNAT1
+Vitamin cofactor Metabolism	NMNAT2
+Vitamin cofactor Metabolism	PNPO
+Vitamin cofactor Metabolism	RDH11
+Vitamin cofactor Metabolism	RFK
+Vitamin cofactor Metabolism	THTPA
+Vitamin cofactor Metabolism	AGRN
+Vitamin cofactor Metabolism	LRP10
+Vitamin cofactor Metabolism	LRP8
+Vitamin cofactor Metabolism	NMNAT3
+Vitamin cofactor Metabolism	PPCS
+Vitamin cofactor Metabolism	TPK1
+Vitamin cofactor Metabolism	VKORC1
+Vitamin cofactor Metabolism	PPCDC
+Vitamin cofactor Metabolism	FLAD1
+Vitamin cofactor Metabolism	NADSYN1
+Vitamin cofactor Metabolism	FPGS
+Vitamin cofactor Metabolism	AASDHPPT
+Vitamin cofactor Metabolism	SLC19A3
+Vitamin cofactor Metabolism	SLC46A1
+Vitamin cofactor Metabolism	CYP2R1
+Vitamin cofactor Metabolism	APOA1BP
+Vitamin cofactor Metabolism	ALDH1L2
+Vitamin cofactor Metabolism	MMADHC
+Vitamin cofactor Metabolism	CD320
+Vitamin cofactor Metabolism	CTRB2
+Vitamin cofactor Metabolism	CUBN
+Vitamin cofactor Metabolism	DHFRL1
+Vitamin cofactor Metabolism	GPC2
+Vitamin cofactor Metabolism	GPIHBP1
+Vitamin cofactor Metabolism	LMBRD1
+Vitamin cofactor Metabolism	MMACHC
+Vitamin cofactor Metabolism	MOCOS
+Vitamin cofactor Metabolism	NFS1
+Vitamin cofactor Metabolism	NUDT12
+Vitamin cofactor Metabolism	PARP10
+Vitamin cofactor Metabolism	PARP14
+Vitamin cofactor Metabolism	PARP16
+Vitamin cofactor Metabolism	PARP6
+Vitamin cofactor Metabolism	PARP8
+Vitamin cofactor Metabolism	PDZD11
+Vitamin cofactor Metabolism	RFT1
+Vitamin cofactor Metabolism	PLB1
+Vitamin cofactor Metabolism	NAPRT1
+Vitamin cofactor Metabolism	SLC22A13
+Vitamin cofactor Metabolism	UBIAD1
+Vitamin cofactor Metabolism	VKORC1L1
+Vitamin cofactor Metabolism	MTHFD2L
+Vitamin cofactor Metabolism	SLC5A8
+Vitamin cofactor Metabolism	CARKD
+Vitamin cofactor Metabolism	MTHFD1L
+Vitamin cofactor Metabolism	ACACA
+Vitamin cofactor Metabolism	PANK1
+Vitamin cofactor Metabolism	MOCS1

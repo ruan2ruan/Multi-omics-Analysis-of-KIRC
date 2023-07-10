@@ -1,0 +1,185 @@
+Metabolic Function	Gene Name	Entrez No.	Full Gene Name
+AMPK Complex	PRKAA1	5562	protein kinase, AMP-activated, alpha 1 catalytic subunit
+AMPK Complex	PRKAA2	5563	protein kinase, AMP-activated, alpha 2 catalytic subunit
+AMPK Complex	PRKAB1	5564	protein kinase, AMP-activated, beta 1 non-catalytic subunit
+AMPK Complex	PRKAB2	5565	protein kinase, AMP-activated, beta 2 non-catalytic subunit
+AMPK Complex	PRKAG1	5571	protein kinase, AMP-activated, gamma 1 non-catalytic subunit
+AMPK Complex	PRKAG2	51422	protein kinase, AMP-activated, gamma 2 non-catalytic subunit
+AMPK Complex	PRKAG3	53632	protein kinase, AMP-activated, gamma 3 non-catalytic subunit
+Fatty Acid Synthesis	ACACA	31	acetyl-CoA carboxylase alpha
+Fatty Acid Synthesis	ACACB	32	acetyl-CoA carboxylase beta
+Fatty Acid Synthesis	ACLY	47	ATP citrate lyase
+Fatty Acid Synthesis	FASN	2194	fatty acid synthase
+Glycogen Metabolism	AGL	178	amylo-1, 6-glucosidase, 4-alpha-glucanotransferase
+Glycogen Metabolism	GBE1	2632	glucan (1,4-alpha-), branching enzyme 1
+Glycogen Metabolism	GDE1	51573	glycerophosphodiester phosphodiesterase 1
+Glycogen Metabolism	GSK3A	2931	glycogen synthase kinase 3 alpha
+Glycogen Metabolism	GSK3B	2932	glycogen synthase kinase 3 beta
+Glycogen Metabolism	GYS1	2997	glycogen synthase 1 (muscle)
+Glycogen Metabolism	GYS2	2998	glycogen synthase 2 (liver)
+Glycogen Metabolism	PGM1	5236	phosphoglucomutase 1
+Glycogen Metabolism	PGM2	55276	phosphoglucomutase 2
+Glycogen Metabolism	PGM2L1	283209	phosphoglucomutase 2-like 1
+Glycogen Metabolism	PGM3	5238	phosphoglucomutase 3
+Glycogen Metabolism	PGM5	5239	phosphoglucomutase 5
+Glycogen Metabolism	PGM5P2	595135	phosphoglucomutase 5 pseudogene 2
+Glycogen Metabolism	PYGB	5834	phosphorylase, glycogen; brain
+Glycogen Metabolism	PYGL	5836	phosphorylase, glycogen, liver
+Glycogen Metabolism	PYGM	5837	phosphorylase, glycogen, muscle
+Glycolysis	ALDOA	226	aldolase A, fructose-bisphosphate
+Glycolysis	ALDOB	229	aldolase B, fructose-bisphosphate
+Glycolysis	ALDOC	230	aldolase C, fructose-bisphosphate
+Glycolysis	ENO1	2023	enolase 1, (alpha)
+Glycolysis	ENO2	2026	enolase 2 (gamma, neuronal)
+Glycolysis	ENO3	2027	enolase 3 (beta, muscle)
+Glycolysis	ENOPH1	58478	enolase-phosphatase 1
+Glycolysis	ENOSF1	55556	enolase superfamily member 1
+Glycolysis	GAPDH	2597	glyceraldehyde-3-phosphate dehydrogenase
+Glycolysis	GPI	2821	glucose phosphate isomerase
+Glycolysis	HK1	3098	hexokinase 1
+Glycolysis	HK2	3099	hexokinase 2
+Glycolysis	HK3	3101	hexokinase 3 (white cell)
+Glycolysis	LDHA	3939	lactate dehydrogenase A
+Glycolysis	LDHB	3945	lactate dehydrogenase B
+Glycolysis	LDHC	3948	lactate dehydrogenase C
+Glycolysis	LDHD	197257	lactate dehydrogenase D
+Glycolysis	PFKFB1	5207	6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 1
+Glycolysis	PFKFB2	5208	6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 2
+Glycolysis	PFKFB3	5209	6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 3
+Glycolysis	PFKFB4	5210	6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 4
+Glycolysis	PFKL	5211	phosphofructokinase, liver
+Glycolysis	PFKM	5213	phosphofructokinase, muscle
+Glycolysis	PFKP	5214	phosphofructokinase, platelet
+Glycolysis	PGAM1	5223	phosphoglycerate mutase 1 (brain)
+Glycolysis	PGAM2	5224	phosphoglycerate mutase 2 (muscle)
+Glycolysis	PGAM4	441531	phosphoglycerate mutase family member 4
+Glycolysis	PGAM5	192111	phosphoglycerate mutase family member 5
+Glycolysis	PGK1	5230	phosphoglycerate kinase 1
+Glycolysis	PGK2	5232	phosphoglycerate kinase 2
+Glycolysis	PKLR	5313	pyruvate kinase, liver and RBC
+Glycolysis	PKM	5315	pyruvate kinase, muscle
+Glycolysis	TPI1	7167	triosephosphate isomerase 1
+Krebs Cycle - Cyto	ACO1	48	aconitase 1, soluble
+Krebs Cycle - Cyto	GOT1	2805	glutamic-oxaloacetic transaminase 1, soluble (aspartate aminotransferase 1)
+Krebs Cycle - Cyto	IDH1	3417	isocitrate dehydrogenase 1 (NADP+), soluble
+Krebs Cycle - Cyto	MDH1	4190	malate dehydrogenase 1, NAD (soluble)
+Krebs Cycle - Cyto	ME1	4199	malic enzyme 1, NADP(+)-dependent, cytosolic
+Krebs Cycle - Mito	ACO2	50	aconitase 2, mitochondrial
+Krebs Cycle - Mito	CS	1431	citrate synthase
+Krebs Cycle - Mito	FH	2271	fumarate hydratase
+Krebs Cycle - Mito	GOT2	2806	glutamic-oxaloacetic transaminase 2, mitochondrial (aspartate aminotransferase 2)
+Krebs Cycle - Mito	IDH2	3418	isocitrate dehydrogenase 2 (NADP+), mitochondrial
+Krebs Cycle - Mito	MDH2	4191	malate dehydrogenase 2, NAD (mitochondrial)
+Krebs Cycle - Mito	ME2	4200	malic enzyme 2, NAD(+)-dependent, mitochondrial
+Krebs Cycle - Mito	ME3	10873	malic enzyme 3, NADP(+)-dependent, mitochondrial
+Krebs Cycle - Mito	OGDH	4967	oxoglutarate (alpha-ketoglutarate) dehydrogenase (lipoamide)
+Krebs Cycle - Mito	PC	5091	pyruvate carboxylase
+Krebs Cycle - Mito	SDHA	6389	succinate dehydrogenase complex, subunit A, flavoprotein (Fp)
+Krebs Cycle - Mito	SDHAF1	644096	succinate dehydrogenase complex assembly factor 1
+Krebs Cycle - Mito	SDHAF2	54949	succinate dehydrogenase complex assembly factor 2
+Krebs Cycle - Mito	SDHB	6390	succinate dehydrogenase complex, subunit B, iron sulfur (Ip)
+Krebs Cycle - Mito	SDHC	6391	succinate dehydrogenase complex, subunit C, integral membrane protein, 15kDa
+Krebs Cycle - Mito	SDHD	6392	succinate dehydrogenase complex, subunit D, integral membrane protein
+Krebs Cycle - Mito	SUCLA2	8803	succinate-CoA ligase, ADP-forming, beta subunit
+Krebs Cycle - Mito	SUCLG1	8802	succinate-CoA ligase, alpha subunit
+Krebs Cycle - Mito	SUCLG2	8801	succinate-CoA ligase, GDP-forming, beta subunit
+PDC Suppression 	PDK1	5163	pyruvate dehydrogenase kinase, isozyme 1
+PDC Suppression 	PDK2	5164	pyruvate dehydrogenase kinase, isozyme 2
+PDC Suppression 	PDK3	5165	pyruvate dehydrogenase kinase, isozyme 3
+PDC Suppression 	PDK4	5166	pyruvate dehydrogenase kinase, isozyme 4
+PDC Activation 	PDP1	54704	pyruvate dehyrogenase phosphatase catalytic subunit 1
+PDC Activation 	PDP2	57546	pyruvate dehyrogenase phosphatase catalytic subunit 2
+PDC Activation 	PDPR	55066	pyruvate dehydrogenase phosphatase regulatory subunit
+Ribose Sugar Metabolism	G6PD	2539	glucose-6-phosphate dehydrogenase
+Ribose Sugar Metabolism	PGD	5226	phosphogluconate dehydrogenase
+Ribose Sugar Metabolism	PGLS	25796	6-phosphogluconolactonase
+Ribose Sugar Metabolism	RPE	6120	ribulose-5-phosphate-3-epimerase
+Ribose Sugar Metabolism	RPIA	22934	ribose 5-phosphate isomerase A
+Ribose Sugar Metabolism	TALDO1	6888	transaldolase 1
+Ribose Sugar Metabolism	TKT	7086	transketolase
+Ribose Sugar Metabolism	TKTL1	8277	transketolase-like 1
+Ribose Sugar Metabolism	TKTL2	84076	transketolase-like 2
+Serine Metabolism	GPT	2875	glutamic-pyruvate transaminase (alanine aminotransferase)
+Serine Metabolism	GPT2	84706	glutamic pyruvate transaminase (alanine aminotransferase) 2
+Serine Metabolism	PHGDH	26227	phosphoglycerate dehydrogenase
+Serine Metabolism	PSAT1	29968	phosphoserine aminotransferase 1
+Serine Metabolism	PSPH	5723	phosphoserine phosphatase
+Serine Metabolism	SDS	10993	serine dehydratase
+Serine Metabolism	SDSL	113675	serine dehydratase-like
+Serine Metabolism	SHMT1	6470	serine hydroxymethyltransferase 1 (soluble)
+Serine Metabolism	SHMT2	6472	serine hydroxymethyltransferase 2 (mitochondrial)
+NADH->NADPH	NNT	23530	nicotinamide nucleotide transhydrogenase
+Complex I	NDUFA10	4705	NADH:ubiquinone oxidoreductase subunit A10
+Complex I	NDUFA12	55967	NADH:ubiquinone oxidoreductase subunit A12
+Complex I	NDUFA1	4694	NADH:ubiquinone oxidoreductase subunit A1
+Complex I	NDUFA2	4695	NADH:ubiquinone oxidoreductase subunit A2
+Complex I	NDUFA3	4696	NADH:ubiquinone oxidoreductase subunit A3
+Complex I	NDUFA4	4697	NDUFA4, mitochondrial complex associated
+Complex I	NDUFA5	4698	NADH:ubiquinone oxidoreductase subunit A5
+Complex I	NDUFA6	4700	NADH:ubiquinone oxidoreductase subunit A6
+Complex I	NDUFA7	4701	NADH:ubiquinone oxidoreductase subunit A7
+Complex I	NDUFA8	4702	NADH:ubiquinone oxidoreductase subunit A8
+Complex I	NDUFA9	4704	NADH:ubiquinone oxidoreductase subunit A9
+Complex I	NDUFAB1	4706	NADH:ubiquinone oxidoreductase subunit AB1
+Complex I	NDUFB10	4716	NADH:ubiquinone oxidoreductase subunit B10
+Complex I	NDUFB1	4707	NADH:ubiquinone oxidoreductase subunit B1
+Complex I	NDUFB2	4708	NADH:ubiquinone oxidoreductase subunit B2
+Complex I	NDUFB3	4709	NADH:ubiquinone oxidoreductase subunit B3
+Complex I	NDUFB4	4710	NADH:ubiquinone oxidoreductase subunit B4
+Complex I	NDUFB5	4711	NADH:ubiquinone oxidoreductase subunit B5
+Complex I	NDUFB6	4712	NADH:ubiquinone oxidoreductase subunit B6
+Complex I	NDUFB7	4713	NADH:ubiquinone oxidoreductase subunit B7
+Complex I	NDUFB8	4714	NADH:ubiquinone oxidoreductase subunit B8
+Complex I	NDUFB9	4715	NADH:ubiquinone oxidoreductase subunit B9
+Complex I	NDUFC1	4717	NADH:ubiquinone oxidoreductase subunit C1
+Complex I	NDUFC2	4718	NADH:ubiquinone oxidoreductase subunit C2
+Complex I	NDUFS1	4719	NADH:ubiquinone oxidoreductase core subunit S1
+Complex I	NDUFS2	4720	NADH:ubiquinone oxidoreductase core subunit S2
+Complex I	NDUFS3	4722	NADH:ubiquinone oxidoreductase core subunit S3
+Complex I	NDUFS4	4724	NADH:ubiquinone oxidoreductase subunit S4
+Complex I	NDUFS5	4725	NADH:ubiquinone oxidoreductase subunit S5
+Complex I	NDUFS6	4726	NADH:ubiquinone oxidoreductase subunit S6
+Complex I	NDUFS7	374291	NADH:ubiquinone oxidoreductase core subunit S7
+Complex I	NDUFS8	4728	NADH:ubiquinone oxidoreductase core subunit S8
+Complex I	NDUFV1	4723	NADH:ubiquinone oxidoreductase core subunit V1
+Complex I	NDUFV2	4729	NADH:ubiquinone oxidoreductase core subunit V2
+Complex I	NDUFV3	4731	NADH:ubiquinone oxidoreductase subunit V3
+Complex III	CYC1	1537	cytochrome c1
+Complex III	CYCS	54205	cytochrome c, somatic
+Complex III	TTC19	54902	tetratricopeptide repeat domain 19
+Complex III	UQCR10	29796	ubiquinol-cytochrome c reductase, complex III subunit X
+Complex III	UQCR11	10975	ubiquinol-cytochrome c reductase, complex III subunit XI
+Complex III	UQCRB	7381	ubiquinol-cytochrome c reductase binding protein
+Complex III	UQCRC1	7384	ubiquinol-cytochrome c reductase core protein I
+Complex III	UQCRC2	7385	ubiquinol-cytochrome c reductase core protein II
+Complex III	UQCRFS1	7386	ubiquinol-cytochrome c reductase, Rieske iron-sulfur polypeptide 1
+Complex III	UQCRH	7388	ubiquinol-cytochrome c reductase hinge protein
+Complex IV - cytochrome C	COX4I1	1327	cytochrome c oxidase subunit 4I1
+Complex IV - cytochrome C	COX5A	9377	cytochrome c oxidase subunit 5A
+Complex IV - cytochrome C	COX5B	1329	cytochrome c oxidase subunit 5B
+Complex IV - cytochrome C	COX6A1	1337	cytochrome c oxidase subunit 6A1
+Complex IV - cytochrome C	COX6A2	1339	cytochrome c oxidase subunit 6A2
+Complex IV - cytochrome C	COX6B1	1340	cytochrome c oxidase subunit 6B1
+Complex IV - cytochrome C	COX6C	1345	cytochrome c oxidase subunit 6C
+Complex IV - cytochrome C	COX7A1	1346	cytochrome c oxidase subunit 7A1
+Complex IV - cytochrome C	COX7A2L	9167	cytochrome c oxidase subunit 7A2 like
+Complex IV - cytochrome C	COX7A2	1347	cytochrome c oxidase subunit 7A2
+Complex IV - cytochrome C	COX7B	1349	cytochrome c oxidase subunit 7B
+Complex IV - cytochrome C	COX7C	1350	cytochrome c oxidase subunit 7C
+Complex IV - cytochrome C	COX8A	1351	cytochrome c oxidase subunit 8A
+Complex V	ATP5A1	498	ATP synthase, H+ transporting, mitochondrial F1 complex, alpha subunit 1, cardiac muscle
+Complex V	ATP5B	506	ATP synthase, H+ transporting, mitochondrial F1 complex, beta polypeptide
+Complex V	ATP5C1	509	ATP synthase, H+ transporting, mitochondrial F1 complex, gamma polypeptide 1
+Complex V	ATP5D	513	ATP synthase, H+ transporting, mitochondrial F1 complex, delta subunit
+Complex V	ATP5E	514	ATP synthase, H+ transporting, mitochondrial F1 complex, epsilon subunit
+Complex V	ATP5F1	515	ATP synthase, H+ transporting, mitochondrial Fo complex subunit B1
+Complex V	ATP5G1	516	ATP synthase, H+ transporting, mitochondrial Fo complex subunit C1 
+Complex V	ATP5G2	517	ATP synthase, H+ transporting, mitochondrial Fo complex subunit C2 
+Complex V	ATP5G3	518	ATP synthase, H+ transporting, mitochondrial Fo complex subunit C3 
+Complex V	ATP5H	10476	ATP synthase, H+ transporting, mitochondrial Fo complex subunit D
+Complex V	ATP5I	521	ATP synthase, H+ transporting, mitochondrial Fo complex subunit E
+Complex V	ATP5J2	9551	ATP synthase, H+ transporting, mitochondrial Fo complex subunit F2
+Complex V	ATP5L	10632	ATP synthase, H+ transporting, mitochondrial Fo complex subunit G
+Complex V	ATP5O	539	ATP synthase, H+ transporting, mitochondrial F1 complex, O subunit
+Complex V	ATP5S	27109	ATP synthase, H+ transporting, mitochondrial Fo complex subunit s 
+Complex V	ATPIF1	93974	ATPase inhibitory factor 1
